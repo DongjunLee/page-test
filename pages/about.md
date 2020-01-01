@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "ML Engineer who believe in the unlimited potential of the brain"
+layout: single
 last_modified_at: 2019-12-27T15:46:43-04:00
 toc: true
 ---
