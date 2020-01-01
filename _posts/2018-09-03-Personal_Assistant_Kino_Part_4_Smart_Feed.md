@@ -12,6 +12,9 @@ description: "My Personal Assistant Kino based on Slack Bot Part 4 - Smart Feed"
 category: blog
 author: dongjun
 externalLink: false
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 # Personal Assistant Kino Part 4 - Smart Feed
