@@ -1,7 +1,11 @@
 ---
-title: About
-layout: page
+permalink: /about/
+title: "About"
+excerpt: "ML Engineer who believe in the unlimited potential of the brain"
+last_modified_at: 2019-12-27T15:46:43-04:00
+toc: true
 ---
+
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p style="text-align: center;">
