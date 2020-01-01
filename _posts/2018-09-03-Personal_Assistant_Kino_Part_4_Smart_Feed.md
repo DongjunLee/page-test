@@ -1,6 +1,6 @@
 ---
 title: "Personal Assistant Kino Part 4 - Smart Feed"
-layout: post
+layout: single
 date: 2018-09-03 10:00
 tag:
 - slack bot
