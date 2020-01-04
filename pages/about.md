@@ -4,10 +4,16 @@ title: "About"
 excerpt: "ML Engineer who believe in the unlimited potential of the brain"
 layout: single
 last_modified_at: 2019-12-27T15:46:43-04:00
+
 toc: true
+toc_label: "Table of Contents"
+toc_icon: "list-alt"
+toc_sticky: true
 ---
 
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<div style="text-align: center;">
+    <img src="./assets/images/profile.jpg" width=400>
+</div>
 
 <p style="text-align: center;">
 Dongjun Lee <br/><br/>
