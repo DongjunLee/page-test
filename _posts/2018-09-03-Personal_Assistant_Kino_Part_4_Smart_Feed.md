@@ -2,6 +2,7 @@
 title: "Personal Assistant Kino Part 4 - Smart Feed"
 layout: single
 date: 2018-09-03 10:00
+description: "테스트"
 
 category: 
     - Quantified Self
@@ -9,7 +10,7 @@ category:
 tag:
     - slack bot
     - quantified self
-    - chatbot
+    - feed
     - personal assistant
     - side project
 

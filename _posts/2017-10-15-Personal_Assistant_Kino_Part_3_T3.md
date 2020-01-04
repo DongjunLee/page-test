@@ -1,17 +1,23 @@
 ---
 title: "Personal Assistant Kino Part 3 - T3"
-layout: post
+layout: single
 date: 2017-10-15 23:30
-tag:
-- slack bot
-- quantified self
-- chatbot
-- personal assistant
-headerImage: false
 description: "My Personal Assistant Kino based on Slack Bot Part 3 - T3."
-category: blog
-author: dongjun
-externalLink: false
+
+category: 
+    - Quantified Self
+
+tag:
+    - slack bot
+    - quantified self
+    - task
+    - personal assistant
+    - side project
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "list-alt"
+toc_sticky: true
 ---
 
 # Personal Assistant Kino Part 3 - T3.
