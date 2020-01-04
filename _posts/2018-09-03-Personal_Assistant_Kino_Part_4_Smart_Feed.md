@@ -7,14 +7,15 @@ tag:
 - quantified self
 - chatbot
 - personal assistant
+- side project
 headerImage: false
-description: " 새로운 글들을 훑어보고, 관심있는 글들을 Pocket에 저장하고, 읽다가 좋다고 느껴지는 글을 Favorite로 옮기는 저의 패턴을 자동화하고 싶었습니다. 그래서 생각하고 만들게 된 기능이 Smart Feed 입니다."
-category: blog
+description: "새로운 글들을 훑어보고, 관심있는 글들을 Pocket에 저장하고, 읽다가 좋다고 느껴지는 글을 Favorite로 옮기는 저의 패턴을 자동화하고 싶었습니다. 그래서 생각하고 만들게 된 기능이 Smart Feed 입니다."
+category: "Quantified Self"
 author: dongjun
-externalLink: false
+
 toc: true
 toc_label: "Table of Contents"
-toc_icon: "cog"
+toc_icon: "list-alt"
 toc_sticky: true
 ---
 
@@ -27,9 +28,9 @@ Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 �
 
 지금까지의 시리즈
 
-- [Personal Assistant Kino Part 1 - Overview](../Personal_Assistant_Kino_Part_1_Overview/)
-- [Personal Assistant Kino Part 2 - Skill & Scheduller](https://dongjunlee.github.io/Personal_Assistant_Kino_Part_2_Skill_and_Scheduler/)
-- [Personal Assistant Kino Part 3 - T3](https://dongjunlee.github.io/Personal_Assistant_Kino_Part_3_T3/)
+- [Personal Assistant Kino Part 1 - Overview](https://dongjunlee.github.io/blog/Personal_Assistant_Kino_Part_1_Overview/)
+- [Personal Assistant Kino Part 2 - Skill & Scheduller](https://dongjunlee.github.io/blog/Personal_Assistant_Kino_Part_2_Skill_and_Scheduler/)
+- [Personal Assistant Kino Part 3 - T3](https://dongjunlee.github.io/blog/Personal_Assistant_Kino_Part_3_T3/)
 
 저번 편에서 Kino의 T3, Task들에 대해서 자동으로 기록하고, 리포팅도 해주는 Task Master 로서의 기능을 살펴보았습니다. 이번 편에는 제가 애용하고 있는 또 하나의 기능. Feed & Pocket 에 대해서 다뤄보고자 합니다.
 
