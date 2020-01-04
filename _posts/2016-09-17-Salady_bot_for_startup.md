@@ -18,7 +18,6 @@ toc_sticky: true
 ---
 ---
 
-# 샐러드를 먹는 스타트업을 위한 Salady Bot 개발기!
 
 ## 발단
 

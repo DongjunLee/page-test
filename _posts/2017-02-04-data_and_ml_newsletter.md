@@ -1,17 +1,22 @@
 ---
 title: "Data and Machine Learning Newsletter"
-layout: post
+layout: single
 date: 2017-02-04 10:10
-image: /assets/images/newsletter-1349774_640.jpg
-headerImage: true
+
+category: 
+    - Blog
+
 tag:
-- news letter,
-category: blog
-author: dongjun
-description: "Data and Machine Learning Newsletter"
+    - news letter
+    - data
+    - machine learning
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "list-alt"
+toc_sticky: true
 ---
 
-# Data and Machine Learning Newsletter
 
  데이터와 머신러닝, 딥러닝에 대해서 꾸준하게 공부를 하면서 자연스럽게 한주마다 나오는 관련 뉴스레터를 구독하는 경우가 많아졌습니다. 그래서 오늘은 이러한 뉴스레터 들을 정리해보고자 합니다.  
  카테고리는 Data Science, Machine Learninig 으로 나누지만, 비슷한 내용을 포함하는 경우가 많습니다.
