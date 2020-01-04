@@ -8,16 +8,15 @@ tag:
 - chatbot
 - personal assistant
 headerImage: false
-description: "My Personal Assistant Kino based on Slack Bot Part 4 - Smart Feed"
 category: blog
 author: dongjun
 externalLink: false
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
+toc_sticky: true
 ---
 
-# Personal Assistant Kino Part 4 - Smart Feed
 
 Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 일들을 자동화시키고 삶의 질을 증진시키기 위한 프로젝트 입니다.
 
