@@ -1,26 +1,36 @@
 ---
 title: "Personal Assistant Kino Part 1 - Overview"
-layout: post
+layout: single
 date: 2017-09-24 22:30
-tag:
-- slack bot
-- quantified self
-- chatbot
-- personal assistant
-image: /assets/images/kino_front.png
-headerImage: true
-description: "My Personal Assistant Kino based on Slack Bot Part 1 - Overview"
-category: blog
-author: dongjun
-externalLink: false
----
 
-# Personal Assistant Kino Part 1 - Overview
+category: 
+    - Quantified Self
+
+tag:
+    - slack bot
+    - quantified self
+    - personal assistant
+    - side project
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "list-alt"
+toc_sticky: true
+---
 
 Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 일들을 자동화시키고 삶의 질을 증진시키기 위한 프로젝트 입니다.
 
 ![images](https://github.com/DongjunLee/BeAwesomeToday/raw/master/images/quantified_self_logo_2x.gif)
  <figcaption class="caption">출처 : http://quantifiedself.com/</figcaption>
+
+
+지금까지의 시리즈
+
+- [Personal Assistant Kino Part 1 - Overview](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_1_Overview/)
+- [Personal Assistant Kino Part 2 - Skill & Scheduller](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_2_Skill_and_Scheduler/)
+- [Personal Assistant Kino Part 3 - T3](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_3_T3/)
+- [Personal Assistant Kino Part 4 - Smart Feed](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_4_Smart_Feed/)
+
 
 ## Introduction
 

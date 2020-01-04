@@ -28,9 +28,10 @@ Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 �
 
 지금까지의 시리즈
 
-- [Personal Assistant Kino Part 1 - Overview](https://dongjunlee.github.io/blog/Personal_Assistant_Kino_Part_1_Overview/)
-- [Personal Assistant Kino Part 2 - Skill & Scheduller](https://dongjunlee.github.io/blog/Personal_Assistant_Kino_Part_2_Skill_and_Scheduler/)
-- [Personal Assistant Kino Part 3 - T3](https://dongjunlee.github.io/blog/Personal_Assistant_Kino_Part_3_T3/)
+- [Personal Assistant Kino Part 1 - Overview](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_1_Overview/)
+- [Personal Assistant Kino Part 2 - Skill & Scheduller](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_2_Skill_and_Scheduler/)
+- [Personal Assistant Kino Part 3 - T3](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_3_T3/)
+- [Personal Assistant Kino Part 4 - Smart Feed](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_4_Smart_Feed/)
 
 저번 편인 `Part 2 - Skill & Scheduler` 은 Kino가 내가 원하는 대로 돌아가도록 준비하는 과정이였습니다. 이제 이 프로젝트의 목표인 Quantified Self를 다루려고 합니다. 나 자신에 대한 데이터를 손쉽게 모으고, 차트를 보며 피드백을 나 자신에게 주고, 이를 통해 삶의 질을 증진시키는 과정을 말이지요.
 

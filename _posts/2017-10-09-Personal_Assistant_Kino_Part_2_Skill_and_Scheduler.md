@@ -1,29 +1,42 @@
 ---
 title: "Personal Assistant Kino Part 2 - Skill & Scheduler."
-layout: post
+layout: single
 date: 2017-10-08 23:30
+
+category: 
+    - Quantified Self
+
 tag:
-- slack bot
-- quantified self
-- chatbot
-- personal assistant
-headerImage: false
-description: "My Personal Assistant Kino based on Slack Bot Part 2 - Skill & Scheduler."
-category: blog
-author: dongjun
-externalLink: false
+    - slack bot
+    - quantified self
+    - scheduler
+    - skill
+    - personal assistant
+    - side project
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "list-alt"
+toc_sticky: true
 ---
 
-# Personal Assistant Kino Part 2 - Skill & Scheduler.
-
 Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 일들을 자동화시키고 삶의 질을 증진시키기 위한 프로젝트 입니다.
+이번 편에서는 가장 기본이 되는 Skill (기능) 등록과 스케쥴링 관리에 대해서 다룹니다.
 
 ![images](https://github.com/DongjunLee/BeAwesomeToday/raw/master/images/quantified_self_logo_2x.gif)
  <figcaption class="caption">출처 : http://quantifiedself.com/</figcaption>
 
+지금까지의 시리즈
+
+- [Personal Assistant Kino Part 1 - Overview](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_1_Overview/)
+- [Personal Assistant Kino Part 2 - Skill & Scheduller](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_2_Skill_and_Scheduler/)
+- [Personal Assistant Kino Part 3 - T3](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_3_T3/)
+- [Personal Assistant Kino Part 4 - Smart Feed](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_4_Smart_Feed/)
+
+
 ## Skill & Scheduler
 
-[Kino에 대해서 간단히 소개를 했던 1편](https://dongjunlee.github.io/Personal_Assistant_Kino_Part_1_Overview/)에 이어서, 내부의 핵심이 되는 Skill과 Scheduler 기능에 대해서 이야기하고자 합니다. 이 두가지 기능은 다음과 같은 생각들을 하다가 나오게 되었습니다.
+Kino에 대해서 간단히 소개를 했던 1편에 이어서, 내부의 핵심이 되는 Skill과 Scheduler 기능에 대해서 이야기하고자 합니다. 이 두가지 기능은 다음과 같은 생각들을 하다가 나오게 되었습니다.
 
 어떻게 하면 나에게 맞는 똑똑한 개인용 봇을 만들 수 있을까?
 
