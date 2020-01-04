@@ -1,17 +1,21 @@
 ---
-title: "BeHappy 프로젝트 시작"
-layout: post
+title: "BeHappy 프로젝트 시작!"
+layout: single
 date: 2016-06-26 10:10
-image: /assets/images/behappy.jpg
-headerImage: true
+
+category: 
+    - Quantified Self
+
 tag:
-- productivity, quantified self, project
-category: blog
-author: dongjun
-description: "Self knowledge through numbers"
+    - quantified self
+    - side project
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "list-alt"
+toc_sticky: true
 ---
 
-# BeHappy 프로젝트 시작!
 
  저는 예전부터 생산성에 관심이 많았습니다. '어떻게 하면 부족한 시간을 잘 보낼 수 있을까?', '지하철에서 그냥 보내는 시간이 아까우니 책을 꼭 읽자' 등등.. 생각해보면 항상 시간에 쫓기는 삶을 살았던 것도 같습니다.
 

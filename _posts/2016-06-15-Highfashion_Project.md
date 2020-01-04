@@ -1,16 +1,20 @@
 ---
 title: "Word2Image HighFashion Project"
-layout: post
+layout: single
 date: 2016-06-15 22:10
+
+category: 
+    - Blog
+
 tag:
-- deep learning
-- dcgan
-- fashion
-image: https://github.com/Soma2-HighFashion/Word2Image/blob/master/sample_images/generate_samples.png?raw=true
-headerImage: true
-category: blog
-author: dongjun
-description: "The project for generate fashion by Deep Learning according to input words."
+    - deep learning
+    - dcgan
+    - fashion
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "list-alt"
+toc_sticky: true
 ---
 
 # HighFashion 프로젝트

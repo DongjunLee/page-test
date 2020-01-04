@@ -1,14 +1,18 @@
 ---
 title: "지식 체화법"
-layout: post
+layout: single
 date: 2016-06-01 10:10
-image: /assets/images/study-1968077_640.jpg
-headerImage: true
+
+category: 
+    - Blog
+
 tag:
-- productivity
-category: blog
-author: dongjun
-description: "새로운 지식을 받아들이는 저만의 체화 방식 소개입니다."
+    - productivity
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "list-alt"
+toc_sticky: true
 ---
 
 # 지식 체화법

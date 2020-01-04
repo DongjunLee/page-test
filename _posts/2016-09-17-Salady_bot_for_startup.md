@@ -1,17 +1,21 @@
 ---
 title: "샐러드를 먹는 스타트업을 위한 Salady Bot 개발기!"
-layout: post
+layout: single
 date: 2016-09-17 01:14
+
+category: 
+    - Blog
+
 tag:
-- slack bot
-- chatbot
-- project
-image: https://github.com/DongjunLee/SaladyBot/raw/master/images/order.png
-headerImage: true
-description: "The project for generate fashion by Deep Learning according to input words."
-category: blog
-author: dongjun
-externalLink: false
+    - quantified self
+    - side project
+    - slack bot
+
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "list-alt"
+toc_sticky: true
+---
 ---
 
 # 샐러드를 먹는 스타트업을 위한 Salady Bot 개발기!
