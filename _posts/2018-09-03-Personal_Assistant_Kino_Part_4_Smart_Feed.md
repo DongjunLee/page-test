@@ -8,6 +8,7 @@ tag:
 - chatbot
 - personal assistant
 headerImage: false
+description: " 새로운 글들을 훑어보고, 관심있는 글들을 Pocket에 저장하고, 읽다가 좋다고 느껴지는 글을 Favorite로 옮기는 저의 패턴을 자동화하고 싶었습니다. 그래서 생각하고 만들게 된 기능이 Smart Feed 입니다."
 category: blog
 author: dongjun
 externalLink: false
@@ -26,7 +27,7 @@ Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 �
 
 지금까지의 시리즈
 
-- [Personal Assistant Kino Part 1 - Overview](https://dongjunlee.github.io/Personal_Assistant_Kino_Part_1_Overview/)
+- [Personal Assistant Kino Part 1 - Overview](./Personal_Assistant_Kino_Part_1_Overview/)
 - [Personal Assistant Kino Part 2 - Skill & Scheduller](https://dongjunlee.github.io/Personal_Assistant_Kino_Part_2_Skill_and_Scheduler/)
 - [Personal Assistant Kino Part 3 - T3](https://dongjunlee.github.io/Personal_Assistant_Kino_Part_3_T3/)
 
