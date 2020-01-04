@@ -2,7 +2,6 @@
 title: "Personal Assistant Kino Part 3 - T3"
 layout: single
 date: 2017-10-15 23:30
-description: "My Personal Assistant Kino based on Slack Bot Part 3 - T3."
 
 category: 
     - Quantified Self
@@ -20,7 +19,6 @@ toc_icon: "list-alt"
 toc_sticky: true
 ---
 
-# Personal Assistant Kino Part 3 - T3.
 
 Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 일들을 자동화시키고 삶의 질을 증진시키기 위한 프로젝트 입니다. 이번 편에는 `T3 = Todoist + Toggl + Trello` 를 통한 Task 간편 관리 기능에 대해서 이야기 합니다. 
 
