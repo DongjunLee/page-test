@@ -11,7 +11,7 @@ toc_icon: "list-alt"
 toc_sticky: true
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/profile.jpg" width=300>
+![Profile Image](https://dongjunlee.github.io/assets/images/profile.jpg)
 
 <p style="text-align: center;">
 Dongjun Lee <br/><br/>
