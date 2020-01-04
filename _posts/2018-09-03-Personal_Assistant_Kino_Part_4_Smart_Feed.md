@@ -2,16 +2,16 @@
 title: "Personal Assistant Kino Part 4 - Smart Feed"
 layout: single
 date: 2018-09-03 10:00
+
+category: 
+    - Quantified Self
+
 tag:
-- slack bot
-- quantified self
-- chatbot
-- personal assistant
-- side project
-headerImage: false
-description: "새로운 글들을 훑어보고, 관심있는 글들을 Pocket에 저장하고, 읽다가 좋다고 느껴지는 글을 Favorite로 옮기는 저의 패턴을 자동화하고 싶었습니다. 그래서 생각하고 만들게 된 기능이 Smart Feed 입니다."
-category: "Quantified Self"
-author: dongjun
+    - slack bot
+    - quantified self
+    - chatbot
+    - personal assistant
+    - side project
 
 toc: true
 toc_label: "Table of Contents"
