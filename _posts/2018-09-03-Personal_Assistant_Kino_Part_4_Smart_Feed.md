@@ -27,7 +27,7 @@ Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 �
 
 지금까지의 시리즈
 
-- [Personal Assistant Kino Part 1 - Overview](./Personal_Assistant_Kino_Part_1_Overview/)
+- [Personal Assistant Kino Part 1 - Overview](../Personal_Assistant_Kino_Part_1_Overview/)
 - [Personal Assistant Kino Part 2 - Skill & Scheduller](https://dongjunlee.github.io/Personal_Assistant_Kino_Part_2_Skill_and_Scheduler/)
 - [Personal Assistant Kino Part 3 - T3](https://dongjunlee.github.io/Personal_Assistant_Kino_Part_3_T3/)
 
