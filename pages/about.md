@@ -12,7 +12,7 @@ toc_sticky: true
 ---
 
 <div style="text-align: center;">
-    <img src="./assets/images/profile.jpg" width=400>
+    <img src="/assets/images/profile.jpg" width=300>
 </div>
 
 <p style="text-align: center;">
