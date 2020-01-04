@@ -12,10 +12,10 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko"
 title                    : "Human Brain"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -111,14 +111,14 @@ author:
   avatar           : "/assets/images/profile.jpg"
   bio              : "**ML Engineer** who believe in the unlimited potential of the brain"
   location         : "Korea"
-  email            :
+  email            : "humanbrain.djlee@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:humanbrain.djlee@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://dongjunlee.github.com/"
+    - label: "HB Wiki"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.notion.so/humanbrain/HB-Wiki-b991e2de3bae4498ae00c8953abaf807"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/hb_djlee"
