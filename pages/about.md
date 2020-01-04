@@ -11,9 +11,7 @@ toc_icon: "list-alt"
 toc_sticky: true
 ---
 
-<div style="text-align: center;">
-    <img src="/assets/images/profile.jpg" width=300>
-</div>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/profile.jpg" width=300>
 
 <p style="text-align: center;">
 Dongjun Lee <br/><br/>
