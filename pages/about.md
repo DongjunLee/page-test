@@ -11,7 +11,7 @@ toc_icon: "list-alt"
 toc_sticky: true
 ---
 
-![Profile Image](https://dongjunlee.github.io/assets/images/profile.jpg)
+![Profile Image](https://dongjunlee.github.io/assets/images/profile.jpg){: .align-center}
 
 <p style="text-align: center;">
 Dongjun Lee <br/><br/>
@@ -27,7 +27,7 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 
 <hr/>
 
-<h2>Work Experience</h2>
+## Work Experience
 
 <div style="margin-left: 15px;">
 
@@ -96,14 +96,14 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 <hr/>
 
 
-<h2> Talks </h2>
+## Talks
 
 <ul class="talks">
 	<li> Deview 2019 - <a href="https://deview.kr/2019/schedule/291">엄~청 큰 언어 모델 공장 가동기! (LaRva: Language Representation by Clova)</a>, [<a href="https://deview.kr/data/deview/2019/presentation/[111]+%E1%84%8B%E1%85%A5%E1%86%B7_%E1%84%8E%E1%85%A5%E1%86%BC+%E1%84%8F%E1%85%B3%E1%86%AB+%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5+%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF+%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC+%E1%84%80%E1%85%A1%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%B5.pdf">slide</a>] </li>
 </ul>
 
 
-<h2> Publications </h2>
+## Publications
 
 <ul class="publications">
 	<li> 
@@ -111,7 +111,7 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 	  Jinwoong Kim, Minkyu Kim, Heungseok Park, Ernar Kusdavletov, Dongjun Lee, Adrian Kim, Ji-Hoon Kim, Jung-Woo Ha, Nako Sung </li>
 </ul>
 
-<h2>Interest</h2>
+## Interest
 
 <ul class="skill-list">
 	<li>Natural Language Processing (NLP), Quentified Self, Personal Asssitant(Bot), Dialog</li>
@@ -119,7 +119,7 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 
 <hr/>
 
-<h2>Skills</h2>
+## Skills
 
 <ul class="skill-list">
 	<li>HTML5, CSS3, JavaScript, jQuery (SAP)</li>
@@ -134,7 +134,7 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 
 <hr/>
 
-<h2>Projects</h2>
+## Projects
 
 <div style="margin-left: 15px;">
 
