@@ -20,7 +20,7 @@ title                    : "Human Brain"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dongjun Lee"
-description              : "ML Engineer who believe in the unlimited potential of the brain"
+description              : "기술을 이용해서 사람들에게 가치있는 제품을 전달하는 일을 하고 싶은 엔지니어입니다."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
