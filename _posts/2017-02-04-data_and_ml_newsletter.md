@@ -14,7 +14,7 @@ tag:
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "list-alt"
-toc_sticky: true
+toc_sticky: false
 ---
 
 
