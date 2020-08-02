@@ -1,6 +1,7 @@
 ---
 title: "아주 늦은 2019년 회고"
 layout: single
+classes: wide
 date: 2020-06-17 10:00
 
 category: 
