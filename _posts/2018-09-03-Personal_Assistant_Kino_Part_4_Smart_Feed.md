@@ -1,6 +1,7 @@
 ---
 title: "Personal Assistant Kino Part 4 - Smart Feed"
 layout: single
+classes: wide
 date: 2018-09-03 10:00
 
 category: 
@@ -109,7 +110,7 @@ def __excute_feed_schedule(self, interval):
 ![images](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CART_tree_titanic_survivors_KOR.png/700px-CART_tree_titanic_survivors_KOR.png)
 
  <figcaption class="caption">출처: 위키백과</figcaption>
- 
+
 
 예를 들어, `Google AI Blog` 웹사이트에서 새로운 글이 등록 되었을 때, 제가 그 동안 여기서 봤던 글이 총 5개이고, 그 중 4개를 Pocket에 저장했다면, 새로운 글도 관심을 가질만한 글이라고 보는 것이죠.
 

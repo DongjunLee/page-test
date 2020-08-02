@@ -1,6 +1,7 @@
 ---
 title: "Personal Assistant Kino Part 2 - Skill & Scheduler."
 layout: single
+classes: wide
 date: 2017-10-08 23:30
 
 category: 
@@ -193,4 +194,5 @@ schedule Package를 이용하면 제가 작업하면 되는 부분은
 다음에는 손쉽게 Todoist에 있는 작업들을, Trello에 카드를 통해 관리하며.. 자동으로 Toggl에 시간 기록까지 되고, 마지막에는 작업 리포트도 받을 수 있는 **T3** 기능에 대해서 다루도록 하겠습니다. 
 
 모든 코드는 [여기서](https://github.com/DongjunLee/kino-bot) 확인하실 수 있습니다.  
-Kino를 더욱 똑똑하게 만들도록 도와주시는 분들은 언제든 환영입니다^^
+Kino를 더욱 똑똑하게 만들도록 도와주시는 분들은 언제든 환영입니다^^
+

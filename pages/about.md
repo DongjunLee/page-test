@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 excerpt: "ML Engineer who believe in the unlimited potential of the brain"
 layout: single
+classes: wide
 last_modified_at: 2019-12-27T15:46:43-04:00
 
 toc: true
@@ -18,7 +19,6 @@ toc_sticky: true
 Dongjun Lee <br/><br/>
 Machine Learning Engineer <br/>
 Naver, Clova AI <br/><br/>
-
 기술을 이용해서 사람들에게 가치있는 제품을 전달하는 일을 하고 싶습니다. <br/><br/>
 좋은 코드, 아키텍처란 무엇인지, <br/>
 NLP 전반에 대해서 <br/>

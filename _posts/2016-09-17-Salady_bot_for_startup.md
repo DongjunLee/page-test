@@ -1,10 +1,11 @@
 ---
 title: "샐러드를 먹는 스타트업을 위한 Salady Bot 개발기!"
 layout: single
+classes: wide
 date: 2016-09-17 01:14
 
 category: 
-    - Blog
+    - Dev
 
 tag:
     - quantified self
@@ -109,7 +110,7 @@ Chat Bot에 대한 글들을 많이 보면서, 기존의 앱에서 메신저앱�
 ## 마무리
 
  위와 같이 Salady Bot을 만들어보면서 Bot을 만드는 것이 별로 어렵지는 않구나..! 라는 생각을 우선 하게 되었습니다. 무엇보다 Slack Message API를 wrapping을 잘 해놓은 slack library들이 많아서 기본은 잘 구현이 되어있고, 저는 제가 필요한 부분만 개발해서 붙이면 되는 식이였기 때문입니다. 
- 
+
  저의 목표는 똑똑한 Bot을 만드는 것이기 때문에, 조금 더 연구하고 시도를 해보면서 발전을 시켜나가볼 생각입니다. 저만을 위한 개인 비서를 만들기 위해서 말이죠.
 
  위 Salady Bot의 코드는 [Github](https://github.com/DongjunLee/SaladyBot/blob/master/README.md)에서 확인하실 수 있습니다.

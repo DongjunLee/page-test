@@ -1,6 +1,7 @@
 ---
 title: "Personal Assistant Kino Part 1 - Overview"
 layout: single
+classes: wide
 date: 2017-09-24 22:30
 
 category: 

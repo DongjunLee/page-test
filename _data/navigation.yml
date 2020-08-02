@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Archive"
+  - title: "Posts"
     url: /categories/
   - title: "HB Wiki"
     url: "https://www.notion.so/humanbrain/HB-Wiki-b991e2de3bae4498ae00c8953abaf807"

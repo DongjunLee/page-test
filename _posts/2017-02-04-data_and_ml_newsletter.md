@@ -1,10 +1,11 @@
 ---
 title: "Data and Machine Learning Newsletter"
 layout: single
+classes: wide
 date: 2017-02-04 10:10
 
 category: 
-    - Blog
+    - ML
 
 tag:
     - news letter
@@ -20,15 +21,15 @@ toc_sticky: false
 
  데이터와 머신러닝, 딥러닝에 대해서 꾸준하게 공부를 하면서 자연스럽게 한주마다 나오는 관련 뉴스레터를 구독하는 경우가 많아졌습니다. 그래서 오늘은 이러한 뉴스레터 들을 정리해보고자 합니다.  
  카테고리는 Data Science, Machine Learninig 으로 나누지만, 비슷한 내용을 포함하는 경우가 많습니다.
- 
- 
+
+
 ## Data Science
- 
+
  - [Data Elixir](https://dataelixir.com/) : Data Elixir is a weekly newsletter of curated data science news and resources from around the web.
 Free for data lovers.
  - [Data Science Weekly](https://www.datascienceweekly.org/) : A free weekly newsletter featuring curated news, articles and jobs related to Data Science.
 
- 
+
 ## Machine Learning
 
 - [Deep Learning Weekly](http://www.deeplearningweekly.com/) : Get a hand-curated digest of deep learning industry news, open source code, tutorials, papers and more right to your inbox.
@@ -36,7 +37,7 @@ Free for data lovers.
 - [O'Reilly Artificial Intelligence Newsletter](http://www.oreilly.com/ai/newsletter.html) : Receive weekly AI news, insights from industry insiders, and exclusive deals and offers. (비즈니스 측면에 더 집중한 뉴스테러)
 - [The Wild Week in AI](https://www.getrevue.co/profile/wildml?utm_campaign=Issue&utm_content=profilename&utm_medium=email&utm_source=The+Wild+Week+in+AI): The Wild Week in AI is a weekly AI & Deep Learning newsletter curated by @dennybritz. (WidlML 블로그도 운영하는 dennybritz)
 
- 
+
 ## Etc
 
 데이터에 관련된 뉴스레터는 아니지만 즐겨보고 있는 뉴스레터 입니다.

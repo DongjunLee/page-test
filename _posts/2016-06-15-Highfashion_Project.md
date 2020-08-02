@@ -1,10 +1,11 @@
 ---
 title: "Word2Image HighFashion Project"
 layout: single
+classes: wide
 date: 2016-06-15 22:10
 
 category: 
-    - Blog
+    - ML
 
 tag:
     - deep learning

@@ -1,6 +1,7 @@
 ---
 title: "지식 체화법"
 layout: single
+classes: wide
 date: 2016-06-01 10:10
 
 category: 
