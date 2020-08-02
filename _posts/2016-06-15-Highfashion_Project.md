@@ -5,7 +5,7 @@ classes: wide
 date: 2016-06-15 22:10
 
 category: 
-    - ML
+    - Machine Learning
 
 tag:
     - deep learning

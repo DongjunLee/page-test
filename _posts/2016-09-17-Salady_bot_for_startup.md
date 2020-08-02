@@ -5,7 +5,7 @@ classes: wide
 date: 2016-09-17 01:14
 
 category: 
-    - Dev
+    - Develop
 
 tag:
     - quantified self

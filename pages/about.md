@@ -6,10 +6,6 @@ layout: single
 classes: wide
 last_modified_at: 2019-12-27T15:46:43-04:00
 
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "list-alt"
-toc_sticky: true
 ---
 
 
@@ -40,12 +36,10 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 
 > CLaF (Clova Language Framework), LaRva (Pre-training Language Model), Contact Centor AI
 
-
 [Konolabs](https://kono.ai) (2016. 7 ~ 2018. 3)
 : Software & ML Engineer
 
 > Slact Bot (Kono), Email Bot pipeline, NLP Server (Temporal information extraction)
-
 
 [Lunit](https://lunit.io/) (2016. 1 ~ 2016. 6)
 : Intern - Software Engineer
@@ -81,18 +75,28 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 
 ## Interest
 
-Team, Natural Language Processing (NLP), Quentified Self, Personal Asssitant (Bot), Dialog
+Natural Language Processing (NLP), Quentified Self, Architecture, Team 
+
+
 
 
 ## Skills
 
 - HTML5, CSS3, JavaScript
+
 - Python 3
+
 - Data Science - numpy, scikit-learn, pandas, matplotlib, seaborn, jupyter notebook
+
 - Machine Learning & Deep Learning - TensorFlow, **PyTorch**, scikit-learn
-- AWS - API Gateway, Lambda, S3 등등
--  Java8, Object-Oriented, Design Patterns
+
+- AWS - API Gateway, Lambda, S3 등
+
+- Java8, Object-Oriented, Design Patterns
+
 - TDD & CI/CD
+
+  
 
 
 ## Projects

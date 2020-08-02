@@ -5,7 +5,7 @@ classes: wide
 date: 2017-02-04 10:10
 
 category: 
-    - ML
+    - Machine Learning
 
 tag:
     - news letter
