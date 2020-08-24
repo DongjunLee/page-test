@@ -1,21 +1,4 @@
----
-title: "지식 체화법"
-layout: single
-classes: wide
-date: 2016-06-01 10:10
-
-category: 
-    - Blog
-
-tag:
-    - productivity
-
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "list-alt"
-toc_sticky: false
----
-
+# 지식 체화법
 
 우리는 많은 것들을 보고 듣고, 생각하고 너무도 많은 것들이 머리 속으로 들어오는
 정보의 호수속에서 살고 있습니다. 그 중에 내것으로 체화되는 것들은 얼마나 될까요.
