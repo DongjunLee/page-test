@@ -158,4 +158,3 @@ class FeedClassifier:
 
 
 모든 코드는 [여기서](https://github.com/DongjunLee/kino-bot) 확인하실 수 있습니다.  
-Kino를 더욱 똑똑하게 만들도록 도와주시는 분들은 언제든 환영입니다^^
