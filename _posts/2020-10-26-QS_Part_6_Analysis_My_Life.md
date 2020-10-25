@@ -33,7 +33,7 @@ toc_sticky: false
 - [Personal Assistant Kino Part 3 - 작업을 최대한 간편하게 관리하고, 데이터를 기록하자](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_3_T3/)
 - [Personal Assistant Kino Part 4 - 자주 읽은 글들은 자동으로 저장하는 Smart Feed](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_4_Smart_Feed/)
 - [Quantified Self Part 5 - 데이터 시각화와 대쉬보드 with KPI](https://dongjunlee.github.io/quantified%20self/QS_Part_5_Data_Visualization_and_Dashboard/)
-- [Quantified Self Part 6 - 생산적인 하루에 대한 정량적인 표현과 4년간의 데이터 이야기](https://dongjunlee.github.io/2020-10-26-QS_Part_6_Analysis_My_Life/)
+- [Quantified Self Part 6 - 생산적인 하루에 대한 정량적인 표현과 4년간의 데이터 이야기](https://dongjunlee.github.io/quantified%20self/QS_Part_6_Analysis_My_Life/)
 
 Github: https://github.com/DongjunLee/quantified-self
 
@@ -51,7 +51,7 @@ Github: https://github.com/DongjunLee/quantified-self
 
 습관에서 '무엇을 할 것인가' 역시 굉장히 중요한 주제입니다. 여기에는 당장 해야 하는 일 보다는 자기 계발에 해당하는 일들이 해당됩니다. 
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled.png){: .align-center}
 
 스티븐 코비의 시간관리 매트릭스
 
@@ -77,33 +77,33 @@ Github: https://github.com/DongjunLee/quantified-self
 - 기본적으로 40분 이상 진행한 작업에 대해서 집중도를 물어보게 만들어 놓았습니다.
 - 집중도에 대한 점수는 1~5점 척도로 되어있습니다.
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%201.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%201.png){: .align-center}
 
 ### Happy, 그 당시의 기분
 
 - 하루를 기준으로 200분 마다 그 당시의 기분에 대해서 물어봅니다.
 - 행복도에 대한 점수 역시 1~5점이 기준입니다.
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%202.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%202.png){: .align-center}
 
 ### Productive, 각종 Tool을 활용한 생산성 점수
 
 - [RescueTime](https://www.rescuetime.com/) 는 PC/모바일을 사용한 기록을 가지고 `Productive Pulse` 라는 점수를 계산하여 제공해주고 있습니다. (이 값이 어떻게 구해지는 지는 [이 링크](https://help.rescuetime.com/article/73-how-is-my-productivity-pulse-calculated)에서 확인하실 수 있습니다.)
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%203.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%203.png){: .align-center}
 
 - [Toggl](https://track.toggl.com/) 에서는 오늘 하루 기록된 작업시간이 8시간 이상부터 100점, 그 아래로는 시간에 비례해서 점수를 차감합니다. (예를 들어, 7시간 작업 시 → 87.5점, 6시간 작업 시 → 75점)
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%204.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%204.png){: .align-center}
 
 - [Github](https://github.com/) 에서 오늘을 기준으로 10일 동안의 Commit의 합이 10개 이상부터 100점, 그 아래로는 커밋 수에 비례해서 측정됩니다. 아래 contributions 의 수를 의미합니다.
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%205.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%205.png){: .align-center}
 
 - [Todoist](https://todoist.com/) 에서는 100점을 기준으로, 완료하지 못한 일들 (+ 기한이 지난 경우 포함)을 우선순위에 따라 차감을 하게 됩니다.
 우선순위는 아래와 같이 4가지가 있고, 높은 우선 순위부터 5, 4, 3, 2 점씩 차감이 됩니다.
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%206.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%206.png){: .align-center}
 
 - 위의 각각의 항목들은 모두 100점 만점이 기준이 됩니다. 여기서 종합 생산성 점수는 다음과 같습니다
 
@@ -136,7 +136,7 @@ Github: https://github.com/DongjunLee/quantified-self
 
  그럼 그 동안의 데이터의 변화를 보면서 제가 생산적인 하루들을 보냈는지 이야기 해보려고 합니다.
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%207.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%207.png){: .align-center}
 <figcaption class="caption">그림 1 - 월간 종합점수의 변화</figcaption>
 
 
@@ -144,7 +144,7 @@ Github: https://github.com/DongjunLee/quantified-self
 
 ### 사이드 프로젝트의 재미 그리고 연구/개발에서 미팅/관리 작업으로
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%208.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%208.png){: .align-center}
 <figcaption class="caption">그림 2 - 각각의 월을 기준으로 각 작업들의 작업시간을 카테고리에 따라 누적한 누적막대차트</figcaption>
 
 
@@ -156,7 +156,7 @@ Github: https://github.com/DongjunLee/quantified-self
  이제 다음 데이터를 조금 더 자세히 살펴볼까요? 먼저 보고자 하는 것은 잠 입니다.
 '잠을 더 자면, 그 날의 기분이 더 좋을 것인가?' 라는 직관적인 생각을 확인해보고자 합니다.
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%209.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%209.png){: .align-center}
 <figcaption class="caption">그림 3- 수면시간에 따른 행복도 점수의 산점도 차트</figcaption>
 
 
@@ -166,7 +166,7 @@ Github: https://github.com/DongjunLee/quantified-self
 
  다음으로 종합 점수에 대해서 전체 상관관계를 한번 봐볼까요?
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2010.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2010.png){: .align-center}
 <figcaption class="caption">그림 4 - 수면시간, 작업 수와 작업시간, 그리고 각종 점수들의 상관계수</figcaption>
 
 
@@ -194,13 +194,13 @@ Github: https://github.com/DongjunLee/quantified-self
 
  지금처럼 고려되는 범주의 수가 3개 이상일 때는 산점도 매트릭스가 범주 간의 관계를 확인할 수 있어서 적합한 방식입니다.
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2011.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2011.png){: .align-center}
 <figcaption class="caption">그림 5-1  평일 오전 시간대(오전 10시 ~ 오후 1시)의 '개발', '미팅' 에 대한 산점도 매트릭스</figcaption>
 
 
  작업은 굉장히 다양한 조건들이 있기 때문에, 세부적으로 조건을 가지고 살펴볼 필요가 있습니다. 위 도표는 오전시간을 대상으로 '개발', '미팅' 에 대한 산점도 매트릭스 입니다. 눈으로 확인할 수 있는 작업의 특성은 다음과 같습니다. 미팅은 보통 1시간 단위로 진행이 되므로 10, 11, 12 시에 몰려있는 것을 알 수가 있습니다. 그리고 개발에 대한 작업은 최소 1시간 정도의 집중을 위한 시간을 필요로 하기 때문에, 10시~11시 사이에 밀집되어 있는 것을 확인할 수 있습니다. 이러한 현상을 상관계수로도 확인을 할 수가 있습니다. 
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2012.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2012.png){: .align-center}
 <figcaption class="caption">그림 5-2  평일 오전 시간의 '개발', '미팅' 에 대한 상관계수</figcaption>
 
 
@@ -210,13 +210,13 @@ Github: https://github.com/DongjunLee/quantified-self
 
  다음은 작업 시간입니다. 위에서 말한 것과 비슷한 경향으로서, 오전에 진행하는 미팅의 경우 시간이 길수록 집중력이 떨어지는 경향(-0.39)이 보이는 반면 개발은 작업시간이 길수록 더 집중력이 높았던 경향(0.29)을 보이고 있습니다. 
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2013.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2013.png){: .align-center}
 <figcaption class="caption">그림 6-1  평일 오후 시간대 (오후 1~8시)의 '개발', '미팅' 에 대한 산점도 매트릭스</figcaption>
 
 
  위의 도표는 오후 시간대에 대한 같은 조건의 산점도 매트릭스입니다. 오전보다는 오후 시간을 더 길게 활용하고 있기 때문에 점들이 확실히 더 많아 보이네요. 여기에서도 오전에서와 비슷하게, 미팅작업은 대부분 정시에 몰려있는 모습이 보이고, 미팅은 보통 1시간, 개발은 1~2시 사이에 몰려있는 것을 확인할 수 있습니다. 그리고 개발에서는 대부분 행복도 점수가 3~5 점이나, 미팅 작업에서 행복도 점수가 2점으로 떨어진 경우들도 보입니다. 이것은 개발에 비해서 상대적으로 컨트롤이 어려운, 미팅이 가지는 특성이 아닐까 싶습니다.
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2014.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2014.png){: .align-center}
 <figcaption class="caption">그림 6-2  평일 오후 시간의 '개발', '미팅' 에 대한 상관계수</figcaption>
 
 
@@ -229,13 +229,13 @@ Github: https://github.com/DongjunLee/quantified-self
  이렇게 시간대에 따라서 영향을 받는 작업들이 있는 반면에, 아무런 상관관계가 없는 것도 있을 것입니다. 
  바로 '운동' 입니다. 
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2015.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2015.png){: .align-center}
 <figcaption class="caption">그림 7-1  평일 모든 시간대의 '운동' 대한 상관계수</figcaption>
 
 
  운동의 특성상, 언제 시작을 하던 (0.08), 혹은 얼마나 하던 (-0.02), 집중해서 하게 되고, 하고 나면 상쾌하기 때문이 아닐까 싶습니다. 실제로 운동에 대한 작업들은 거의 대부분이 5점에 있습니다. 이 조커와 같은 운동에 대한 효과는 운동을 한 날과 하지 않은 날을 비교해보면 더 그 차이를 체감할 수 있습니다.
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2016.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2016.png){: .align-center}
 <figcaption class="caption">그림 7-2  운동 여부에 따른 바이올린 차트</figcaption>
 
 
@@ -250,7 +250,7 @@ Github: https://github.com/DongjunLee/quantified-self
 
 ### 자기계발에 해당하는 우선 순위 2 의 작업들
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2017.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2017.png){: .align-center}
 <figcaption class="caption">그림 8 - 우선순위 2에 해당하는 작업 카테고리의 월간 작업시간 막대 그래프</figcaption>
 
 
@@ -262,7 +262,7 @@ Github: https://github.com/DongjunLee/quantified-self
 
  살면서 목표는 계속해서 변화하게 됩니다. 그에 따라서 Metric 또한 달라져야 할 것 입니다. 그리고 목표가 바뀌는 것 외에도 새로운 데이터를 수집할 수 있게 되거나, 기존의 데이터를 다른 방식으로 수집하게 된다면 이에 따른 목표 설정이 새로 필요할 것입니다. 현재 몇가지 변화를 주고 있는데, 가장 큰 변화는 아래 3가지 입니다.
 
-![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2018.png)
+![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2018.png){: .align-center}
 <figcaption class="caption">출처: [https://blog.fitbit.com/sleep-stages-explained/](https://blog.fitbit.com/sleep-stages-explained/)</figcaption>
 
 1. 수면 : 현재는 [Fitbit Versa](https://www.fitbit.com/kr/versa) 를 통해서 조금 더 정확한 수면에 대한 정보를 얻고 있습니다. 개인적으로 잠에 대한 관심도 많고, 가끔 밤에 잠이 안 와서 밤잠을 설친 날에는 그날 하루가 피곤해지는 것을 경험하다보니.. 자연스럽게 수면에 대해서 점수도 더 올리고 엄격한 기준을 적용해보려고 하고 있습니다.
