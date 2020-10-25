@@ -39,7 +39,6 @@ toc_sticky: false
 
 Github: https://github.com/DongjunLee/quantified-self
 
----
 
 
 

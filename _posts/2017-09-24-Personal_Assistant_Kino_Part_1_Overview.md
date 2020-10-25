@@ -36,7 +36,7 @@ Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 �
 
 Github: https://github.com/DongjunLee/quantified-self
 
----
+
 
 
 ## Introduction

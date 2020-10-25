@@ -38,7 +38,7 @@ Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 �
 
 Github: https://github.com/DongjunLee/quantified-self
 
----
+
 
 
 저번 편에서 Kino의 `T3`, Task들에 대해서 자동으로 기록하고, 리포팅도 해주는 Task Master 로서의 기능을 살펴보았습니다. 이번 편에는 제가 애용하고 있는 또 하나의 기능. Feed & Pocket 에 대해서 다뤄보고자 합니다.
