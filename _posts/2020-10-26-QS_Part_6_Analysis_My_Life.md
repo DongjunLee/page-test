@@ -263,7 +263,7 @@ Github: https://github.com/DongjunLee/quantified-self
  살면서 목표는 계속해서 변화하게 됩니다. 그에 따라서 Metric 또한 달라져야 할 것 입니다. 그리고 목표가 바뀌는 것 외에도 새로운 데이터를 수집할 수 있게 되거나, 기존의 데이터를 다른 방식으로 수집하게 된다면 이에 따른 목표 설정이 새로 필요할 것입니다. 현재 몇가지 변화를 주고 있는데, 가장 큰 변화는 아래 3가지 입니다.
 
 ![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2018.png){: .align-center}
-<figcaption class="caption">출처: [https://blog.fitbit.com/sleep-stages-explained/](https://blog.fitbit.com/sleep-stages-explained/)</figcaption>
+<figcaption class="caption">출처: https://blog.fitbit.com/sleep-stages-explained/</figcaption>
 
 1. 수면 : 현재는 [Fitbit Versa](https://www.fitbit.com/kr/versa) 를 통해서 조금 더 정확한 수면에 대한 정보를 얻고 있습니다. 개인적으로 잠에 대한 관심도 많고, 가끔 밤에 잠이 안 와서 밤잠을 설친 날에는 그날 하루가 피곤해지는 것을 경험하다보니.. 자연스럽게 수면에 대해서 점수도 더 올리고 엄격한 기준을 적용해보려고 하고 있습니다.
  위의 그래프에서 보는 것처럼, 잠은 REB, Light, Deep 의 단계를 순환하고 그것을 잡아주고 있기 때문에 더 정확한 진단이 가능할 것입니다. 그 동안은 단순히 잠을 자기 시작한 시간, 일어난 시간을 기준으로 했기 때문에 수면시간과의 상관관계도 더 정확히 알아볼 수 있을 것입니다.
