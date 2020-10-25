@@ -1,5 +1,5 @@
 ---
-title: "Personal Assistant Kino Part 4 - Smart Feed"
+title: "Personal Assistant Kino Part 4 - 자주 읽은 글들은 자동으로 저장하는 Smart Feed"
 layout: single
 classes: wide
 date: 2018-09-03 10:00
@@ -25,15 +25,21 @@ Kino 프로젝트는 QS를 통해서 자신에 대해서 알고, 불필요한 �
 
 
 ![images](https://github.com/DongjunLee/BeAwesomeToday/raw/master/images/quantified_self_logo_2x.gif)
-
- <figcaption class="caption">출처 : http://quantifiedself.com/</figcaption>
+<figcaption class="caption">출처 : http://quantifiedself.com/</figcaption>
 
 지금까지의 시리즈
 
 - [Personal Assistant Kino Part 1 - Overview](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_1_Overview/)
-- [Personal Assistant Kino Part 2 - Skill & Scheduller](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_2_Skill_and_Scheduler/)
-- [Personal Assistant Kino Part 3 - T3](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_3_T3/)
-- [Personal Assistant Kino Part 4 - Smart Feed](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_4_Smart_Feed/)
+- [Personal Assistant Kino Part 2 - Chatbot의 기본구조 Skill & Scheduler](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_2_Skill_and_Scheduler/)
+- [Personal Assistant Kino Part 3 - 자주 읽은 글들은 자동으로 저장하는 Smart Feed](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_3_T3/)
+- [Personal Assistant Kino Part 4 - 자주 읽은 글들은 자동으로 저장하는 Smart Feed](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_4_Smart_Feed/)
+- [Quantified Self Part 5 - 데이터 시각화와 대쉬보드 with KPI](https://dongjunlee.github.io/quantified%20self/QS_Part_5_Data_Visualization_and_Dashboard/)
+- [Quantified Self Part 6 - 생산적인 하루에 대한 정량적인 표현과 4년간의 데이터 이야기](https://dongjunlee.github.io/quantified%20self/QS_Part_6_Analysis_My_Life/)
+
+Github: https://github.com/DongjunLee/quantified-self
+
+---
+
 
 저번 편에서 Kino의 `T3`, Task들에 대해서 자동으로 기록하고, 리포팅도 해주는 Task Master 로서의 기능을 살펴보았습니다. 이번 편에는 제가 애용하고 있는 또 하나의 기능. Feed & Pocket 에 대해서 다뤄보고자 합니다.
 

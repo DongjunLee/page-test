@@ -1,5 +1,5 @@
 ---
-title: "Quantified Self Part 5 - Data Visualization & Dashboard"
+title: "Quantified Self Part 5 - 데이터 시각화와 대쉬보드 with KPI"
 layout: single
 classes: wide
 date: 2020-08-31 10:00
@@ -31,10 +31,11 @@ toc_sticky: false
 지금까지의 시리즈
 
 - [Personal Assistant Kino Part 1 - Overview](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_1_Overview/)
-- [Personal Assistant Kino Part 2 - Skill & Scheduller](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_2_Skill_and_Scheduler/)
-- [Personal Assistant Kino Part 3 - T3](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_3_T3/)
-- [Personal Assistant Kino Part 4 - Smart Feed](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_4_Smart_Feed/)
-- [Quantified Self Part 5 - Data Visualization & Dashboard](/)
+- [Personal Assistant Kino Part 2 - Chatbot의 기본구조 Skill & Scheduler](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_2_Skill_and_Scheduler/)
+- [Personal Assistant Kino Part 3 - 자주 읽은 글들은 자동으로 저장하는 Smart Feed](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_3_T3/)
+- [Personal Assistant Kino Part 4 - 자주 읽은 글들은 자동으로 저장하는 Smart Feed](https://dongjunlee.github.io/quantified%20self/Personal_Assistant_Kino_Part_4_Smart_Feed/)
+- [Quantified Self Part 5 - 데이터 시각화와 대쉬보드 with KPI](https://dongjunlee.github.io/quantified%20self/QS_Part_5_Data_Visualization_and_Dashboard/)
+- [Quantified Self Part 6 - 생산적인 하루에 대한 정량적인 표현과 4년간의 데이터 이야기](https://dongjunlee.github.io/quantified%20self/QS_Part_6_Analysis_My_Life/)
 
 Github: https://github.com/DongjunLee/quantified-self
 
