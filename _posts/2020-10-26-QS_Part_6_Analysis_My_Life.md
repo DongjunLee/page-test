@@ -244,6 +244,8 @@ Github: https://github.com/DongjunLee/quantified-self
 
 ![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/QuantifiedSelf_Part_6/Untitled%2019.png){: .align-center}
 
+<figcaption class="caption">그림 6-3  개발/미팅/관리 작업들의 몰입 점수에 대한 오전/오후 별 히스토그램</figcaption>
+
  위의 상관관계들을 보았을 때, 아침 혹은 오후에 따라서 작업에 몰입하는 경향에 차이가 있음을 알 수가 있습니다. 집중도가 높으면서 기분이 좋은 경우를 몰입하는 상황이라고 가정(집중도 점수 + 행복도 점수)하고 작업들의 분포를 살펴보았습니다. 미팅/관리 쪽의 일들은 오전보다는 오후에 높은 점수 쪽으로 분포가 되어있고, 개발은 거의 비슷한 분포를 보이고 있네요.
 
  이렇게 시간대에 따라서 영향을 받는 작업들이 있는 반면에, 아무런 상관관계가 없는 것도 있을 것입니다. 
