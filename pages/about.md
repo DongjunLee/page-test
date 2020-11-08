@@ -4,7 +4,7 @@ title: "About"
 excerpt: "ML Engineer who believe in the unlimited potential of the brain"
 layout: single
 classes: wide
-last_modified_at: 2019-12-27T15:46:43-04:00
+last_modified_at: 2020-11-08T14:30:43-09:00
 
 ---
 
@@ -30,15 +30,20 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 ## Work Experience
 
 [Naver Clova AI](https://clova.ai/) (2018. 4 ~ Current)
+
+**AI MD**
 : Tech Lead & Project Manager 
-> AiMD : https://shopping.naver.com/mister/trends
+> Semantic Search & Recommendation : https://shopping.naver.com/mister/trends
 
+**Contact Centor AI - AiCall**
 : Project Manager 
-> Contact Centor AI - AiCall : https://clova.ai/aicontactcenter
+> Outback PoC : https://clova.ai/aicontactcenter
 
+**LaRva**
 : Machine Learning Engineer & Project Manager 
-> LaRva (Pre-training Language Model)
+> Pre-trained Language Model
 
+**Reasoning AI**
 : Machine Learning Engineer
 > CLaF (Clova Language Framework) : https://github.com/naver/claf
 
