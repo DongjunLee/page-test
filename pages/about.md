@@ -29,15 +29,15 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 
 ## Work Experience
 
-[Naver Clova AI](https://clova.ai/) (2018. 4 ~ Current)
+### [Naver Clova AI](https://clova.ai/) (2018. 4 ~ Current)
 
 **AI MD**
 : Tech Lead & Project Manager 
-> Semantic Search & Recommendation : https://shopping.naver.com/mister/trends
+> Semantic Search & Recommendation : [MR.](https://shopping.naver.com/mister/trends)
 
 **Contact Centor AI - AiCall**
 : Project Manager 
-> Outback PoC : https://clova.ai/aicontactcenter
+> Outback PoC : [AiCall](https://clova.ai/aicontactcenter)
 
 **LaRva**
 : Machine Learning Engineer & Project Manager 
@@ -45,25 +45,26 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 
 **Reasoning AI**
 : Machine Learning Engineer
-> CLaF (Clova Language Framework) : https://github.com/naver/claf
+> CLaF (Clova Language Framework) : [https://github.com/naver/claf](https://github.com/naver/claf)
 
-[Konolabs](https://kono.ai) (2016. 7 ~ 2018. 3)
+
+### [Konolabs](https://kono.ai) (2016. 7 ~ 2018. 3)
 : Software & Machine Learning Engineer
 
 > Slact Bot (Kono), Email Bot pipeline, NLP Server (Temporal information extraction)
 
-[Lunit](https://lunit.io/) (2016. 1 ~ 2016. 6)
+### [Lunit](https://lunit.io/) (2016. 1 ~ 2016. 6)
 : Intern - Software Engineer
 
 > Data Strorage Server
 
-[Software Maestro](http://www.swmaestro.kr/) (2015. 7 ~ 2016.7)
+### [Software Maestro](http://www.swmaestro.kr/) (2015. 7 ~ 2016.7)
 : 6th Member
 
 > Training Program, Team Project
 
 
-[Minz Communication](#)  (2014. 12 ~ 2015.3)
+### [Minz Communication](#)  (2014. 12 ~ 2015.3)
 : Intern - Software Engineer
 
 > Java Spring, SPA
