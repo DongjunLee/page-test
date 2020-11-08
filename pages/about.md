@@ -19,7 +19,6 @@ Naver, Clova AI <br/><br/>
 좋은 코드, 아키텍처란 무엇인지, <br/>
 NLP 전반에 대해서 <br/>
 그리고 팀 문화에 관심이 많습니다.
-
 <br/><br/>
 
 CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[PDF]</a>
@@ -30,14 +29,21 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 
 ## Work Experience
 
-
 [Naver Clova AI](https://clova.ai/) (2018. 4 ~ Current)
-:  Machine Learning Engineer & Project Manager 
+: Tech Lead & Project Manager 
+> AiMD : https://shopping.naver.com/mister/trends
 
-> CLaF (Clova Language Framework), LaRva (Pre-training Language Model), Contact Centor AI
+: Project Manager 
+> Contact Centor AI - AiCall : https://clova.ai/aicontactcenter
+
+: Machine Learning Engineer & Project Manager 
+> LaRva (Pre-training Language Model)
+
+: Machine Learning Engineer
+> CLaF (Clova Language Framework) : https://github.com/naver/claf
 
 [Konolabs](https://kono.ai) (2016. 7 ~ 2018. 3)
-: Software & ML Engineer
+: Software & Machine Learning Engineer
 
 > Slact Bot (Kono), Email Bot pipeline, NLP Server (Temporal information extraction)
 
