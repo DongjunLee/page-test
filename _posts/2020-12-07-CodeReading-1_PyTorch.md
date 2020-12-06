@@ -4,7 +4,6 @@ classes: wide
 date: 2020-12-07 10:00
 
 category: 
-
     - Code Reading
 
 tag:
@@ -79,7 +78,7 @@ toc_sticky: false
 
 (stride에 대해서는 이 [Stride Visualizer](https://ezyang.github.io/stride-visualizer/index.html)에서 조금 더 자세히 이해할 수 있습니다.)
 
-![CodeReading%20-%201%20PyTorch%2053dd5782862a4445a0122e6d12622652/Untitled%203.png](CodeReading%20-%201%20PyTorch%2053dd5782862a4445a0122e6d12622652/Untitled%203.png)
+![images]({{ site.url }}{{ site.baseurl }}/assets/images/code_reading-1_pytorch/Untitled%203.png)
 
 출처: [http://blog.ezyang.com/2019/05/pytorch-internals/](http://blog.ezyang.com/2019/05/pytorch-internals/)
 
@@ -340,7 +339,7 @@ class BackwardCFunction(_C._FunctionBase, _ContextMethodMixin, _HookMixin):
 
  실제로 위 코드의 `_ContextMethodMixin`, `_HookMixin` 메서드 확장을 위해서 사용이 되고 있습니다.
 
- 믹스인에 대해서 보충 설명을 하자면, <[오브젝트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193681076)> 에서는 이렇게 정의를 하고 있습니다.
+ 믹스인에 대해서 보충 설명을 하자면, ≪[오브젝트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193681076)≫ 에서는 이렇게 정의를 하고 있습니다.
 
 > 믹스인(mixin)은 객체를 생성할 때 코드 일부를 클래스 안에 섞어 넣어 재사용하는 기법을 가리키는 용어다. 합성이 실행 시점에 객체를 조합하는 재사용 방법이라면 믹스인은 컴파일 시점에 필요한 코드 조각을 조합하는 재사용방법이다.
 - 04 믹스인 중에서
@@ -369,7 +368,7 @@ class Function(with_metaclass(FunctionMeta, _C._FunctionBase, _ContextMethodMixi
 
  위와 같이 `forward` 그리고 `backward` 를 정의하도록 가이드하면서, 추상클래스로서의 역할을 하고 있는 것을 확인할 수 있습니다. 코드 내에는 공식적으로 `InplaceFuction` 그리고 `NestedIOFunction` 만 작성되어 있기는 하지만, 처음 예시로 봤던 `LinearFunction` 처럼 수 많은 연산로직들이 이 `Function` 의 정의된 규격을 따라가면 재사용이 가능함을 알 수 있습니다.
 
-![CodeReading%20-%201%20PyTorch%2053dd5782862a4445a0122e6d12622652/Untitled%204.png](CodeReading%20-%201%20PyTorch%2053dd5782862a4445a0122e6d12622652/Untitled%204.png)
+![images]({{ site.url }}{{ site.baseurl }}/assets/images/code_reading-1_pytorch/Untitled%204.png)
 
 Function을 상속받아서 구현되는 InplaceFuction 과 NestedIOFunction
 
@@ -380,7 +379,7 @@ Function을 상속받아서 구현되는 InplaceFuction 과 NestedIOFunction
 
  여기부터는 순수 Python으로 코드가 구성되어 있습니다. 수 많은 코드들 중에서 살펴보려고 하는 것은 가장 기본이 되는 `Module` 클래스입니다. Python으로 전체가 구성되어 있는 것만큼, 여기에서는 모든 코드들이 `typing` 을 통해서 자료형이 모두 명시되어 있습니다.
 
-![CodeReading%20-%201%20PyTorch%2053dd5782862a4445a0122e6d12622652/Untitled%205.png](CodeReading%20-%201%20PyTorch%2053dd5782862a4445a0122e6d12622652/Untitled%205.png)
+![images]({{ site.url }}{{ site.baseurl }}/assets/images/code_reading-1_pytorch/Untitled%205.png)
 
 Module 에게 주어진 책임 예시 (GPU 할당 / 입력 계산)
 
