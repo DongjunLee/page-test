@@ -35,7 +35,7 @@ toc_sticky: false
 ## PyTorch
 
 ![images]({{ site.url }}{{ site.baseurl }}/assets/images/code_reading-1_pytorch/Untitled.png){: .align-center}
-<figcaption class="caption">출처:[https://github.com/pytorch/pytorch</figcaption>
+<figcaption class="caption">출처:https://github.com/pytorch/pytorch</figcaption>
 
  처음 다뤄보고 하는 프로젝트는 현재 제가 가장 많이 사용하고 있는 프레임워크인 [PyTorch](https://github.com/pytorch/pytorch) 입니다. 딥러닝에서는 TensorFlow 와 같이 가장 널리 쓰이고 있는 프레임워크로서, Dynamic Graph 기반의 명령형 제어흐름과 모듈 구성 그리고 Python으로 손쉽게 사용할 수 있는 특징이 있습니다. 이 특징들로 인해서 직관적인 코드 작성이 가능하고, 디버깅도 편하게 할 수 있으며, 모듈화가 정말 잘 되어 있어서 코드를 사용하는 입장에서 아주 편한 장점이 있습니다. 이런 이유들로 인해서 첫 Code Reading의 사례로 선정하기도 하였습니다.
 
