@@ -1,3 +1,4 @@
+---
 title: "CodeReading - 1. PyTorch"
 layout: single
 classes: wide
@@ -16,7 +17,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "list-alt"
 toc_sticky: false
-
+---
 
 
 ## Code Reading
