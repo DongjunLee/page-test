@@ -19,6 +19,7 @@ toc_icon: "list-alt"
 toc_sticky: false
 ---
 
+ Code Reading은 잘 작성되어 있는 프레임워크, 라이브러리, 툴킷 등의 다양한 프로젝트의 내부를 살펴보는 시리즈 입니다. 이번 포스트에서는 직관적인 사용이 가능한 PyTorch 에 대해서 다뤄보겠습니다.
 
 ## Code Reading
 
