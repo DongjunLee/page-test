@@ -2,7 +2,7 @@
 title: "How to Start a Startup - Stanford 정리"
 layout: single
 classes: wide
-date: 2021-03-07 11:00
+date: 2021-03-08 09:00
 
 category: 
     - Startup
@@ -22,6 +22,19 @@ toc_sticky: false
  대기업에서 스타트업으로 다시 돌아가면서, 예전에 인상깊게 본 [How to Start a Startup](https://educast.com/course/startup/RS36) 강의를 정리해보고자 합니다. 이 강의는 총 20개로 구성되어 있고, 2014년에 스탠포드에서 진행이 되었습니다. [Y Combinator](https://www.ycombinator.com/) 라는 유명한 액셀러레이터의 대표인 샘 알트만이 진행하였고, 다양한 스타트업 (대부분 혹은.. 모두 Y Combinator가 투자한)에서 연사들이 각 주제별로 강의를 합니다.
 
  모든 강의를 하나하나 요약하고 정리하는 것이 아닌, '제품', '사용자' 와 같이 대분류에 맞춰서 묶을 수 있는 내용들을 모으고 내용 또한 블릿 포인트(bullet point)로 정리합니다. 그리고 몇가지 용어들에 대해서는 조금 더 살펴보고 따로 정리하는 것을 목표로 (e.g. CLV, Cohort Analysis 등) 하였습니다.
+
+## 용어정리
+
+- 2021-03-08 Update
+
+- [Cohort Analysis : 코호트 분석](https://www.notion.so/humanbrain/Cohort-Analysis-ae705c11a8af4abca010e475a08dcd91)
+
+- [Customer Lifetime Value : 고객생애가치](https://www.notion.so/humanbrain/Customer-Lifetime-Value-f23c602ca3684739b3a9ac00292d8614)
+
+  
+
+---
+
 
 
 ## General
@@ -127,7 +140,7 @@ toc_sticky: false
     - Total Registrations
     - Active users
     - Activity Levels
-    - Cohort Retention
+    - [Cohort Retention](https://www.notion.so/humanbrain/Cohort-Analysis-ae705c11a8af4abca010e475a08dcd91)
     - Revenue
     - Net Promoter Score
         - 이 제품이나 서비스를 동료나 친구들에게 추천할 의향이 얼마나 되시나요?
@@ -251,7 +264,7 @@ Q. Pinterest의 비전이 초창기와 달라졌는가?
 - 지속가능한 성장이 중요하다.
     1. Sticky :기존 사용자가 계속 방문하게 하는 것
         - 좋은 경험이 중요하다.
-        - CLV (고객주기), Cohort 분석으로 알 수 있다.
+        - [CLV (고객주기)](https://www.notion.so/humanbrain/Customer-Lifetime-Value-f23c602ca3684739b3a9ac00292d8614), [Cohort 분석](https://www.notion.so/humanbrain/Cohort-Analysis-ae705c11a8af4abca010e475a08dcd91)으로 알 수 있다.
         - 오랜기간이 지나도 계속 사용하는 고객 → Core 고객들
     2. Viral : 고객이 직접 주변사람에게 권하는 것
         - 좋은 경험이 중요하다. 그것과 함께 입소문을 낼 수 있는 장치가 필요하다.
@@ -753,8 +766,10 @@ Q. 다른 사람의 입장에서 생각하는 팁
     - 대포를 늘리기 위해서는, 모두에게 결국 부러질때까지 점진적으로 책임의 볌위를 늘려나가는 것이 필요하다. 실패의 시점을 기억하고 그 수준으로 책임을 부여하면 된다.
     - 수평적인 관계에서 주변 동료들이 많이 찾는 사람이 있다면, 그 사람은 주변 사람들을 도와주는 사람일 것이다. 즉, 대포에 가까운 사람일 것이다.
 - Scaling, 언제 어떻게 확장을 할 것인가
+  
     - 각각 회사마다 성장곡선이 다르다.
 - Insist on Focus, 한 가지 일에만 집중하게 하는 것
+  
     - Peter 의 방식, 사람은 눈에 보이는 쉽게 해결할 수 있는 일을 먼저 처리하기 때문 → 누구도 문제를 제대로 풀기 위해서 시간의 100%을 사용하지 않는다.
 - Metrics & Transparency
     - Dashboard를 만들기를 추천한다.
@@ -1168,6 +1183,6 @@ Q. 좋다고 생각하는 시장이 있지만, 아직 많이 알지 못하는 �
 
 ## 끝으로
 
- 이번 기회에 다시 정리를 해보면서 내용들을 여러번 다시 보게되었습니다. 대략 7년이 지난 지금에도 적용이 되는 이야기가 대부분이라고 생각합니다. 각 강의에서 창업자들의 인사이트가 느껴지기도 하구요. 스타트업이 성장하고 커가는 방식은 다양할 수 있지만, '**훌롱햔 제품을 만드는 것**' 이 가장 기본이 되는 방식일 것입니다. 
+ 이번 기회에 다시 정리를 해보면서 내용들을 여러번 다시 보게되었습니다. 대략 7년이 지난 지금에도 적용이 되는 이야기가 대부분이라고 생각합니다. 각 강의에서 창업자들의 인사이트가 느껴지기도 하구요. 스타트업이 성장하고 커가는 방식은 다양할 수 있지만, '**훌륭한 제품을 만드는 것**' 이 가장 기본이 되는 방식일 것입니다. 
 
  언젠가는 훌륭한 제품 그리고 훌륭한 회사를 만들고, 위 강의처럼 인사이트를 공유해보고 싶네요.
