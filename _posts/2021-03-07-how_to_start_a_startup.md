@@ -23,15 +23,11 @@ toc_sticky: false
 
  모든 강의를 하나하나 요약하고 정리하는 것이 아닌, '제품', '사용자' 와 같이 대분류에 맞춰서 묶을 수 있는 내용들을 모으고 내용 또한 블릿 포인트(bullet point)로 정리합니다. 그리고 몇가지 용어들에 대해서는 조금 더 살펴보고 따로 정리하는 것을 목표로 (e.g. CLV, Cohort Analysis 등) 하였습니다.
 
-## 용어정리
+## 용어정리 (2021-03-08 Update)
 
-- 2021-03-08 Update
+[Cohort Analysis : 코호트 분석](https://www.notion.so/humanbrain/Cohort-Analysis-ae705c11a8af4abca010e475a08dcd91), [Customer Lifetime Value : 고객생애가치](https://www.notion.so/humanbrain/Customer-Lifetime-Value-f23c602ca3684739b3a9ac00292d8614), [Net Promoter Score : 순수고객추천지수](https://www.notion.so/humanbrain/Net-Promoter-Score-2bb7989711724c4295349d66d1dde642)
 
-- [Cohort Analysis : 코호트 분석](https://www.notion.so/humanbrain/Cohort-Analysis-ae705c11a8af4abca010e475a08dcd91)
 
-- [Customer Lifetime Value : 고객생애가치](https://www.notion.so/humanbrain/Customer-Lifetime-Value-f23c602ca3684739b3a9ac00292d8614)
-
-  
 
 ---
 
@@ -142,7 +138,7 @@ toc_sticky: false
     - Activity Levels
     - [Cohort Retention](https://www.notion.so/humanbrain/Cohort-Analysis-ae705c11a8af4abca010e475a08dcd91)
     - Revenue
-    - Net Promoter Score
+    - [Net Promoter Score](https://www.notion.so/humanbrain/Net-Promoter-Score-2bb7989711724c4295349d66d1dde642)
         - 이 제품이나 서비스를 동료나 친구들에게 추천할 의향이 얼마나 되시나요?
 - Growth : 전환율과 이탈율의 상호작용
     - 전환율을 1% 높이는 것과 이탈율을 1% 줄이는 것이 성장에 미치는 영향은 똑같다. 보통은 후자가 더 쉽고 비용도 적게 들어간다.
