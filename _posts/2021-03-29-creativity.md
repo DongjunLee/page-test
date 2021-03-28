@@ -22,7 +22,7 @@ toc_sticky: false
  픽사 애니메이션 스튜디오는 아래 이미지에서 낯익은 케릭터들이 많이 있는 만큼, 흥행한 작품들이 굉장히 많은 회사 입니다. 특히 초창기에는 작품을 낼때마다 박스오피스 1위를 할 정도였죠. 어떻게 애니메이션을 만드는지 아는 것이 별로 없지만, 창의성이 중요하다는 것은 알 수가 있습니다. 이런 창의성이 요구되는 활동을 성공적으로, 그리고 꾸준하게 해낼 수 있었던 비결은 무엇일까요?
 
 ![image.png]({{ site.url }}{{ site.baseurl }}/assets/images/creativity/Untitled.png){: .align-center}
-<figcaption class="caption">출처: https://www.creativebloq.com/animation/job-at-pixar-10121018 </figcaption>
+<figcaption class="caption">출처: https://www.creativebloq.com/animation/job-at-pixar-10121018 </figcaption>  
 
 
  그에 대한 답의 일부가 아래 애드 캣멀이 지은 [≪창의성을 지휘하라≫](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=45834844) 에 담겨있습니다.
