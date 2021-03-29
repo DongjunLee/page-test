@@ -1,8 +1,8 @@
 ---
-title: "창의성을 지휘하라: 위대한 제품을 만드는 모두를 위한"
+title: "창의성을 지휘하라: 위대한 제품을 만드는 모두를 위한 책"
 layout: single
 classes: wide
-date: 2021-03-29 09:00
+date: 2021-03-30 09:00
 
 category: 
     - Book
