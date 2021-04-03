@@ -20,17 +20,14 @@ toc_icon: "list-alt"
 toc_sticky: false
 ---
 
-
-Code Reading은 잘 작성되어 있는 프레임워크, 라이브러리, 툴킷 등의 다양한 프로젝트의 내부를 살펴보는 시리즈 입니다. 프로젝트의 아키텍처, 디자인철학이나 코드 스타일 등을 살펴보며, 구체적으로 하나하나 살펴보는 것이 아닌 전반적이면서 간단하게 살펴봅니다. 
+> Code Reading은 잘 작성되어 있는 프레임워크, 라이브러리, 툴킷 등의 다양한 프로젝트의 내부를 살펴보는 시리즈 입니다. 프로젝트의 아키텍처, 디자인철학이나 코드 스타일 등을 살펴보며, 구체적으로 하나하나 살펴보는 것이 아닌 전반적이면서 간단하게 살펴봅니다. 
 
 ## Series.
 
 - [CodeReading - 1. PyTorch](https://dongjunlee.github.io/code%20reading/CodeReading-1_PyTorch/)
-- [CodeReading - 2. Flask]()
-
+- [CodeReading - 2. Flask]()/
 
 ---
-
 
  [코드읽기 1편](https://dongjunlee.github.io/code%20reading/CodeReading-1_PyTorch/)에 이어서 이번에 살펴보고자 하는 라이브러리는 Python Web 개발의 양대산맥 중 하나인 [Flask](https://github.com/pallets/flask)를 다뤄보고자 합니다. 코드 읽기를 추천하는 많은 사람들이 추천하는 라이브러리이기도 합니다!
 
@@ -136,7 +133,7 @@ def index():
 
  코드는 전반적으로 함수와 객체가 역할에 맞춰서 잘 나뉘어 있으며, Python 언어가 제공하는 기본 기능들을 최대한 활용하여 (Pythonic한), 가독성에 굉장히 신경을 쓴 것을 코드 전반적으로 느낄 수 있습니다. 다음은 몇가지 세부 코드들은 들어가서 살펴보겠습니다.
 
-- [**helpers.py](http://helpers.py) : 다양한 유틸 함수 및 클래스를 선언**
+[**helpers.py**](http://helpers.py) : 다양한 유틸 함수 및 클래스를 선언
 
 ```python
 # https://github.com/pallets/flask/blob/1.1.2/src/flask/helpers.py
@@ -204,7 +201,7 @@ def __method_name(): # private
 ```
 
 
-- [**wrappers.py](https://github.com/pallets/flask/blob/1.1.2/src/flask/wrappers.py)  : werkzeug 를 감싸서 객체 선언 (객체의 확장방식)**
+[**wrappers.py**](https://github.com/pallets/flask/blob/1.1.2/src/flask/wrappers.py)  : werkzeug 를 감싸서 객체 선언 (객체의 확장방식)
 
  이 코드에서는 [1편 PyTorch](https://dongjunlee.github.io/code%20reading/CodeReading-1_PyTorch/)의 Function의 객체의 확장과 거의 같은 방식을 보실 수 있습니다.
 
@@ -245,7 +242,8 @@ def with_metaclass(meta, *bases):
 
  이 `with_metaclass` 는 객체의 빌트인 함수들의 동작을 바꿔서, 원하는 방식대로 동작하는 객체를 만드는 데 사용이 됩니다. PyTorch에서 Function 객체를 위 메서드를 통해서 정의하고 있죠. (자세한 것은 [1편](https://dongjunlee.github.io/code%20reading/CodeReading-1_PyTorch/)을 참고해주세요.) 프로젝트 시기상 Flask가 훨씬 먼저 만들어지고, 이후에 PyTorch가 만들어졌기 때문에.. PyTorch의 메인테이너들은 Flask의 코드스타일을 비슷하게 따라갔고 몇가지 그대로 사용하는 케이스도 있었던 것으로 생각이 됩니다. Flask의 코드들이 가독성이 좋고 사용성 또한 직관적이였던 것처럼, PyTorch 역시 그럴마한 이유가 있었네요.
 
-- [**signals.py](https://github.com/pallets/flask/blob/1.1.2/src/flask/signals.py) : Application이 동작하는 시그널을 감지**
+
+[**signals.py**](https://github.com/pallets/flask/blob/1.1.2/src/flask/signals.py) : Application이 동작하는 시그널을 감지
 
 ```python
 # https://github.com/pallets/flask/blob/1.1.2/src/flask/signals.py#L54
@@ -268,7 +266,7 @@ message_flashed = _signals.signal("message-flashed")
 
  라이브러리를 개발할때, 필요하다면 이와 같이 [Blinker](https://github.com/jek/blinker) 라는 dispatching system을 사용할 수 있을 것 같습니다.
 
-- **[werkzeug/datastructures.py](https://github.com/pallets/werkzeug/blob/master/src/werkzeug/datastructures.py) : (번외로) werkzeug 에서 유틸리티처럼 정의한 데이터구조 클래스들**
+**[werkzeug/datastructures.py**](https://github.com/pallets/werkzeug/blob/master/src/werkzeug/datastructures.py) : (번외로) werkzeug 에서 유틸리티처럼 정의한 데이터구조 클래스들
 
  이번 Flask 코드를 살펴보면서 자연스럽게 연결되어 있는 라이브러리에 대해서도 살짝 살펴보게 되었습니다. 그 중에서 한가지 참고하기에 가장 좋다고 생각되는 코드를 소개시켜드리고자 합니다.
 
