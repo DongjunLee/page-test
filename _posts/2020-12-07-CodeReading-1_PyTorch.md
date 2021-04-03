@@ -28,7 +28,6 @@ toc_sticky: false
 
 ---
  
- 이번 포스트에서는 Deep Learning Framework 중 직관적인 사용이 가능한 [PyTorch](https://github.com/pytorch/pytorch)에 대해서 다뤄보겠습니다.
 
 ## Code Reading
 

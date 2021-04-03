@@ -29,6 +29,8 @@ toc_sticky: false
 
 ---
 
+## 시작하며
+
  [코드읽기 1편](https://dongjunlee.github.io/code%20reading/CodeReading-1_PyTorch/)에 이어서 이번에 살펴보고자 하는 라이브러리는 Python Web 개발의 양대산맥 중 하나인 [Flask](https://github.com/pallets/flask)를 다뤄보고자 합니다. 코드 읽기를 추천하는 많은 사람들이 추천하는 라이브러리이기도 합니다!
 
  Flask를 소개하는 한줄의 문장은 다음과 같습니다.
