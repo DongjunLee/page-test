@@ -121,13 +121,16 @@ author:
       url: "https://www.notion.so/humanbrain/HB-Wiki-b991e2de3bae4498ae00c8953abaf807"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/hb_djlee"
+      # url: "https://twitter.com/hb_djlee"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/dongjun.lee.98284"
+      # url: "https://www.facebook.com/dongjun.lee.98284"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DongjunLee"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dongjun-lee/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -137,10 +140,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/hb_djlee"
+      # url: "https://twitter.com/hb_djlee"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/dongjun.lee.98284"
+      # url: "https://www.facebook.com/dongjun.lee.98284"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DongjunLee"
@@ -153,6 +156,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dongjun-lee/"
 
 
 # Reading Files
