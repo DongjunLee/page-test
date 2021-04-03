@@ -19,7 +19,16 @@ toc_icon: "list-alt"
 toc_sticky: false
 ---
 
- Code Reading은 잘 작성되어 있는 프레임워크, 라이브러리, 툴킷 등의 다양한 프로젝트의 내부를 살펴보는 시리즈 입니다. 프로젝트의 아키텍처, 디자인철학이나 코드 스타일 등을 살펴보며, 구체적으로 하나하나 살펴보는 것이 아닌 전반적이면서 간단하게 살펴봅니다. 이번 포스트에서는 Deep Learning Framework 중 직관적인 사용이 가능한 [PyTorch](https://github.com/pytorch/pytorch)에 대해서 다뤄보겠습니다.
+> Code Reading은 잘 작성되어 있는 프레임워크, 라이브러리, 툴킷 등의 다양한 프로젝트의 내부를 살펴보는 시리즈 입니다. 프로젝트의 아키텍처, 디자인철학이나 코드 스타일 등을 살펴보며, 구체적으로 하나하나 살펴보는 것이 아닌 전반적이면서 간단하게 살펴봅니다. 
+
+## Series.
+
+- [CodeReading - 1. PyTorch](https://dongjunlee.github.io/code%20reading/CodeReading-1_PyTorch/)
+- [CodeReading - 2. Flask](https://dongjunlee.github.io/code%20reading/CodeReading-2_Flask/)
+
+---
+ 
+ 이번 포스트에서는 Deep Learning Framework 중 직관적인 사용이 가능한 [PyTorch](https://github.com/pytorch/pytorch)에 대해서 다뤄보겠습니다.
 
 ## Code Reading
 

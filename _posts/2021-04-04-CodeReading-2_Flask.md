@@ -25,7 +25,7 @@ toc_sticky: false
 ## Series.
 
 - [CodeReading - 1. PyTorch](https://dongjunlee.github.io/code%20reading/CodeReading-1_PyTorch/)
-- [CodeReading - 2. Flask]()/
+- [CodeReading - 2. Flask](https://dongjunlee.github.io/code%20reading/CodeReading-2_Flask/)
 
 ---
 
