@@ -65,8 +65,7 @@ def hello():
 
  이렇게 구조를 가져가면서 얻을 수 있는 장점은 주로 1**) 성능 향상**과 **2) 확장성** 에 있습니다. 이 포스트에서는 코드를 읽는 것이 주이므로, 간단하게만 언급하고 넘어가도록 하겠습니다.
 
- 위 인터페이스의 규격은 아래의 코드로 확인할 수 있습니다. `Request` 라는 `Callable Object` 를 Web Application에서 받아서 `Response` 라는 결과를 반환하는 것입니다.
-(아래의 예제 코드의 `werkzeug` 는 `flask` 의 코어가 되는 라이브러리로, 같은 개발자가 만들었습니다.)
+ 위 인터페이스의 규격은 아래의 코드로 확인할 수 있습니다. `Request` 라는 `Callable Object` 를 통해, Web Application에서 받아서 `Response` 라는 객체로 결과를 반환하는 것입니다.
 
 ```python
 from werkzeug.wrappers import Request, Response
@@ -79,6 +78,8 @@ if __name__ == '__main__':
     from werkzeug.serving import run_simple
     run_simple('localhost', 4000, application)
 ```
+
+Flask를 이야기하는데 갑자기 다른 라이브러리가 나와서 의아하게 생각하신 분들도 계셨을 것 같습니다. 하지만 위의 예제 코드 안에 있는 `werkzeug` 는 `flask` 의 코어가 되는 라이브러리로, 같은 개발자가 만들었습니다. 현재 이 프로젝트들은 The Pallets Projects 에서 관리되고 있는데, 여기도 한번 살펴보겠습니다.
 
 
 ## The Pallets Projects
