@@ -2,7 +2,7 @@
 title: "CodeReading - 2. Flask"
 layout: single
 classes: wide
-date: 2021-04-04 10:00
+date: 2021-04-05 10:00
 
 category: 
     - Code Reading
@@ -311,7 +311,31 @@ class Headers(object):
 
  Request에 사용되는 Headers 또한 기본 Built-in 함수들을 직관적으로 사용할 수 있도록 재구현이 되어 있습니다. 이 코드들을 보다보니, PyTorch의 [Module](https://github.com/pytorch/pytorch/blob/v1.8.1/torch/nn/modules/module.py#L204) 클래스가 생각나기도 하네요!
 
- 그 외에도 다양하게 decorator가 구현되고 직관적으로 사용되는 점들도 있으니, 코드를 살펴보시면서 참고하시면 좋겠습니다. ([@setupmethod](https://github.com/pallets/flask/blob/1.1.2/src/flask/app.py#L82) 예시)
+ 그 외에도 다양하게 decorator가 구현되고 직관적으로 사용되는 점들도 있으니, 코드를 살펴보시면서 참고하시면 좋겠습니다. 
+
+```python
+# https://github.com/pallets/flask/blob/1.1.2/src/flask/app.py#L82
+
+def setupmethod(f):
+    """Wraps a method so that it performs a check in debug mode if the
+    first request was already handled.
+    """
+
+    def wrapper_func(self, *args, **kwargs):
+        if self.debug and self._got_first_request:
+            raise AssertionError(
+                "A setup function was called after the "
+                "first request was handled.  This usually indicates a bug "
+                "in the application where a module was not imported "
+                "and decorators or other functionality was called too late.\n"
+                "To fix this make sure to import all your view modules, "
+                "database models and everything related at a central place "
+                "before the application starts serving requests."
+            )
+        return f(self, *args, **kwargs)
+
+    return update_wrapper(wrapper_func, f)
+```
 
 
 ## 끝으로
