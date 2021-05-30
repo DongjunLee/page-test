@@ -28,6 +28,7 @@ toc_sticky: false
 
 - [CodeReading - 1. PyTorch](https://dongjunlee.github.io/code%20reading/CodeReading-1_PyTorch/)
 - [CodeReading - 2. Flask](https://dongjunlee.github.io/code%20reading/CodeReading-2_Flask/)
+- [CodeReading - 3. ABC](https://dongjunlee.github.io/code%20reading/CodeReading-3_ABC/)
 
 ---
 
@@ -232,7 +233,7 @@ def __subclasscheck__(cls, subclass):
 ### collections.abc
 
  흔히 자주 사용되는 `collections` 에서도 이 `abc` 이 적용되어 있습니다. 바로 `collections.abc` 입니다. 여기에는 기본적인 자료구조들에 대한 추상 클래스를 제공하고 있습니다. [문서에 있는 리스트](https://docs.python.org/ko/3/library/collections.abc.html#collections-abstract-base-classes)를 한번 살펴보겠습니다.
- 
+
 ![images]({{ site.url }}{{ site.baseurl }}/assets/images/code_reading-3_abc/Untitled%201.png){: .align-center}
 <figcaption class="caption">collection.abc의 다이어그램 (출처: Issue Tracker - Python.org)</figcaption>
 
@@ -243,7 +244,7 @@ def __subclasscheck__(cls, subclass):
 
 ## 끝으로
 
- Python에서 지원하는 추상화 모듈인 `abc`에 대해서 코드와 함께 알아보았습니다. 조금 더 Pythonic 한 코드를 구현하고 싶다면, 위의 `[collections.abc](http://collections.abc)` 의 기본 추상화 클래스를 상속받아 필요한 기능들을 구현해서 사용해보는 것이 어떨까요? 
+ Python에서 지원하는 추상화 모듈인 `abc`에 대해서 코드와 함께 알아보았습니다. 조금 더 Pythonic 한 코드를 구현하고 싶다면, 위의 [collections.abc](http://collections.abc) 의 기본 추상화 클래스를 상속받아 필요한 기능들을 구현해서 사용해보는 것이 어떨까요? 
 
 
 ## References
