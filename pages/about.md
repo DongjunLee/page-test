@@ -1,10 +1,9 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "ML Engineer who believe in the unlimited potential of the brain"
 layout: single
 classes: wide
-last_modified_at: 2021-03-26T09:30:43-09:00
+last_modified_at: 2021-06-13T10:00:00-09:00
 
 ---
 
@@ -14,7 +13,7 @@ last_modified_at: 2021-03-26T09:30:43-09:00
 <p style="text-align: center;">
 Dongjun Lee <br/><br/>
 Machine Learning Engineer <br/>
-Naver, Clova <br/><br/>
+LBox Co., Ltd.  <br/><br/>
 기술을 이용해서 사람들에게 가치있는 제품을 전달하는 일을 하고 싶습니다. <br/><br/>
 좋은 코드, 아키텍처란 무엇인지, <br/>
 NLP 전반에 대해서 <br/>
@@ -29,7 +28,10 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 
 ## Work Experience
 
-### [Naver Clova AI](https://clova.ai/) (2018. 4 ~ Current)
+### [LBox](https://career.lbox.kr/) (2021. 4 ~ current)
+
+
+### [Naver Clova AI](https://clova.ai/) (2018. 4 ~ 2021. 3)
 
 **1. AI MD**
 : Tech Lead & Project Manager 
@@ -80,9 +82,10 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 
 ## Publications
 
+
+- [KLUE: Korean Language Understanding Evaluation](https://arxiv.org/abs/2105.09680) (2021. 5)  Sungjoon Park*, Jihyung Moon *, Sungdong Kim*, Won Ik Cho*, Jiyoon Han, Jangwon Park, Chisung Song, Junseong Kim, Yongsook Song, Taehwan Oh, Joohong Lee, Juhyun Oh, Sungwon Lyu, Younghoon Jeong, Inkwon Lee, Sangwoo Seo, Dongjun Lee, Hyunwoo Kim, Myeonghwa Lee, Seongbo Jang, Seungwon Do, Sunkyoung Kim, Kyungtae Lim, Jongwon Lee, Kyumin Park, Jamin Shin, Seonghyun Kim, Lucy Park, Alice Oh, Jung-Woo Ha, Kyunghyun Cho.
 - [CHOPT : Automated Hyperparameter Optimization Framework for Cloud-Based Machine Learning Platforms](https://arxiv.org/abs/1810.03527) (2018. 10)
 :   Jinwoong Kim, Minkyu Kim, Heungseok Park, Ernar Kusdavletov, Dongjun Lee, Adrian Kim, Ji-Hoon Kim, Jung-Woo Ha, Nako Sung
-
 
 
 ## Interest
@@ -90,25 +93,15 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 Product, Natural Language Processing (NLP), Quentified Self, Architecture, Team 
 
 
-
-
 ## Skills
 
 - HTML5, CSS3, JavaScript
-
 - Python 3
-
 - Data Science - numpy, scikit-learn, pandas, matplotlib, seaborn, jupyter notebook
-
 - Machine Learning & Deep Learning - TensorFlow, **PyTorch**, scikit-learn
-
 - AWS - API Gateway, Lambda, S3 등
-
 - Java8, Object-Oriented, Design Patterns
-
 - TDD & CI/CD
-
-  
 
 
 ## Projects
