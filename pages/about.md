@@ -83,7 +83,8 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 ## Publications
 
 
-- [KLUE: Korean Language Understanding Evaluation](https://arxiv.org/abs/2105.09680) (2021. 5)  : Sungjoon Park*, Jihyung Moon *, Sungdong Kim*, Won Ik Cho*, Jiyoon Han, Jangwon Park, Chisung Song, Junseong Kim, Yongsook Song, Taehwan Oh, Joohong Lee, Juhyun Oh, Sungwon Lyu, Younghoon Jeong, Inkwon Lee, Sangwoo Seo, Dongjun Lee, Hyunwoo Kim, Myeonghwa Lee, Seongbo Jang, Seungwon Do, Sunkyoung Kim, Kyungtae Lim, Jongwon Lee, Kyumin Park, Jamin Shin, Seonghyun Kim, Lucy Park, Alice Oh, Jung-Woo Ha, Kyunghyun Cho
+- [KLUE: Korean Language Understanding Evaluation](https://arxiv.org/abs/2105.09680) (2021. 5)
+: Sungjoon Park*, Jihyung Moon *, Sungdong Kim*, Won Ik Cho*, Jiyoon Han, Jangwon Park, Chisung Song, Junseong Kim, Yongsook Song, Taehwan Oh, Joohong Lee, Juhyun Oh, Sungwon Lyu, Younghoon Jeong, Inkwon Lee, Sangwoo Seo, Dongjun Lee, Hyunwoo Kim, Myeonghwa Lee, Seongbo Jang, Seungwon Do, Sunkyoung Kim, Kyungtae Lim, Jongwon Lee, Kyumin Park, Jamin Shin, Seonghyun Kim, Lucy Park, Alice Oh, Jung-Woo Ha, Kyunghyun Cho
 - [CHOPT : Automated Hyperparameter Optimization Framework for Cloud-Based Machine Learning Platforms](https://arxiv.org/abs/1810.03527) (2018. 10)
 : Jinwoong Kim, Minkyu Kim, Heungseok Park, Ernar Kusdavletov, Dongjun Lee, Adrian Kim, Ji-Hoon Kim, Jung-Woo Ha, Nako Sung
 
