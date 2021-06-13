@@ -50,24 +50,24 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 > CLaF (Clova Language Framework) : [https://github.com/naver/claf](https://github.com/naver/claf)
 
 
-### [Konolabs](https://kono.ai) (2016. 7 ~ 2018. 3)
+### [**Konolabs**](https://kono.ai) (2016. 7 ~ 2018. 3)
 : Software & Machine Learning Engineer
 
 > Slact Bot (Kono), Email Bot pipeline, NLP Server (Temporal information extraction)
 
-### [Lunit](https://lunit.io/) (2016. 1 ~ 2016. 6)
-: Intern - Software Engineer
+### [**Lunit**](https://lunit.io/) (2016. 1 ~ 2016. 6)
+: Software Engineer Intern
 
 > Data Strorage Server
 
-### [Software Maestro](http://www.swmaestro.kr/) (2015. 7 ~ 2016.7)
+### [**Software Maestro**](http://www.swmaestro.kr/) (2015. 7 ~ 2016.7)
 : 6th Member
 
 > Training Program, Team Project
 
 
-### [Minz Communication](#)  (2014. 12 ~ 2015.3)
-: Intern - Software Engineer
+### [**Minz Communication**](#)  (2014. 12 ~ 2015.3)
+: Software Engineer Intern
 
 > Java Spring, SPA
 
@@ -83,9 +83,9 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 ## Publications
 
 
-- [KLUE: Korean Language Understanding Evaluation](https://arxiv.org/abs/2105.09680) (2021. 5)  Sungjoon Park*, Jihyung Moon *, Sungdong Kim*, Won Ik Cho*, Jiyoon Han, Jangwon Park, Chisung Song, Junseong Kim, Yongsook Song, Taehwan Oh, Joohong Lee, Juhyun Oh, Sungwon Lyu, Younghoon Jeong, Inkwon Lee, Sangwoo Seo, Dongjun Lee, Hyunwoo Kim, Myeonghwa Lee, Seongbo Jang, Seungwon Do, Sunkyoung Kim, Kyungtae Lim, Jongwon Lee, Kyumin Park, Jamin Shin, Seonghyun Kim, Lucy Park, Alice Oh, Jung-Woo Ha, Kyunghyun Cho.
+- [KLUE: Korean Language Understanding Evaluation](https://arxiv.org/abs/2105.09680) (2021. 5)  : Sungjoon Park*, Jihyung Moon *, Sungdong Kim*, Won Ik Cho*, Jiyoon Han, Jangwon Park, Chisung Song, Junseong Kim, Yongsook Song, Taehwan Oh, Joohong Lee, Juhyun Oh, Sungwon Lyu, Younghoon Jeong, Inkwon Lee, Sangwoo Seo, Dongjun Lee, Hyunwoo Kim, Myeonghwa Lee, Seongbo Jang, Seungwon Do, Sunkyoung Kim, Kyungtae Lim, Jongwon Lee, Kyumin Park, Jamin Shin, Seonghyun Kim, Lucy Park, Alice Oh, Jung-Woo Ha, Kyunghyun Cho
 - [CHOPT : Automated Hyperparameter Optimization Framework for Cloud-Based Machine Learning Platforms](https://arxiv.org/abs/1810.03527) (2018. 10)
-:   Jinwoong Kim, Minkyu Kim, Heungseok Park, Ernar Kusdavletov, Dongjun Lee, Adrian Kim, Ji-Hoon Kim, Jung-Woo Ha, Nako Sung
+: Jinwoong Kim, Minkyu Kim, Heungseok Park, Ernar Kusdavletov, Dongjun Lee, Adrian Kim, Ji-Hoon Kim, Jung-Woo Ha, Nako Sung
 
 
 ## Interest
