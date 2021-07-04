@@ -32,10 +32,7 @@ toc_sticky: false
 - [CodeReading - 3. ABC](https://dongjunlee.github.io/code%20reading/CodeReading-3_ABC/)
 - [CodeReading - 4. Python Code Style](https://dongjunlee.github.io/code%20reading/CodeReading-4_Python_Code_Style/)
 
-
-![images]({{ site.url }}{{ site.baseurl }}/assets/images/code_reading-4_python_code_style/Untitled.png){: .align-center}
-<figcaption class="caption">출처: https://www.reddit.com/r/programming/comments/p1j1c/tabs_vs_spaces_vs_both/</figcaption>
-
+---
 
 
 ## Code Style의 중요성
@@ -50,6 +47,9 @@ toc_sticky: false
 
  그렇다면 Pyhon Code Style에 대해서 조금 더 자세히 알아볼까요?
 
+
+![images]({{ site.url }}{{ site.baseurl }}/assets/images/code_reading-4_python_code_style/Untitled.png){: .align-center}
+<figcaption class="caption">출처: https://www.reddit.com/r/programming/comments/p1j1c/tabs_vs_spaces_vs_both/</figcaption>
 
 
 ## PEP8
