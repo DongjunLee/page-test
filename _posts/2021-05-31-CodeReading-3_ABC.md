@@ -1,5 +1,5 @@
 ---
-title: "CodeReading - 3. ABC"
+title: "Python 코드읽기 - 3. ABC"
 layout: single
 classes: wide
 date: 2021-05-31 10:00
@@ -27,11 +27,11 @@ toc_sticky: false
 
 ## Series.
 
-- [CodeReading - 1. PyTorch](https://dongjunlee.github.io/code%20reading/CodeReading-1_PyTorch/)
-- [CodeReading - 2. Flask](https://dongjunlee.github.io/code%20reading/CodeReading-2_Flask/)
-- [CodeReading - 3. ABC](https://dongjunlee.github.io/code%20reading/CodeReading-3_ABC/)
-- [CodeReading - 4. Python Code Style](https://dongjunlee.github.io/code%20reading/CodeReading-4_Python_Code_Style/)
-- 
+- [Python 코드읽기 - 1. PyTorch](https://dongjunlee.github.io/code%20reading/CodeReading-1_PyTorch/)
+- [Python 코드읽기 - 2. Flask](https://dongjunlee.github.io/code%20reading/CodeReading-2_Flask/)
+- [Python 코드읽기 - 3. ABC](https://dongjunlee.github.io/code%20reading/CodeReading-3_ABC/)
+- [Python 코드읽기 - 4. Python Code Style](https://dongjunlee.github.io/code%20reading/CodeReading-4_Python_Code_Style/)
+
 ---
 
  이번에 다뤄보고자 하는 라이브러리는 기본적인 추상화 기능을 제공하는 `abc` 에 대해서 알아보고자 합니다. Python은 동적 언어로서, 객체 지향과 함수형 등 다양한 패러다임을 지원하고 있습니다. `abc` 모듈은 여기서 객체 지향 프로그래밍을 위한 것입니다. 그럼 라이브러리의 안을 살펴보기 전에 간단하게 객체 지향에서의 추상화에 대해서 짚고 넘어겠습니다.

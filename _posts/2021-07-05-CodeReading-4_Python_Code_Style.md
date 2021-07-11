@@ -1,5 +1,5 @@
 ---
-title: "CodeReading - 4. Python Code Style"
+title: "Python 코드읽기 - 4. Python Code Style"
 layout: single
 classes: wide
 date: 2021-07-05 10:00
@@ -27,10 +27,10 @@ toc_sticky: false
 
 ## Series.
 
-- [CodeReading - 1. PyTorch](https://dongjunlee.github.io/code%20reading/CodeReading-1_PyTorch/)
-- [CodeReading - 2. Flask](https://dongjunlee.github.io/code%20reading/CodeReading-2_Flask/)
-- [CodeReading - 3. ABC](https://dongjunlee.github.io/code%20reading/CodeReading-3_ABC/)
-- [CodeReading - 4. Python Code Style](https://dongjunlee.github.io/code%20reading/CodeReading-4_Python_Code_Style/)
+- [Python 코드읽기 - 1. PyTorch](https://dongjunlee.github.io/code%20reading/CodeReading-1_PyTorch/)
+- [Python 코드읽기 - 2. Flask](https://dongjunlee.github.io/code%20reading/CodeReading-2_Flask/)
+- [Python 코드읽기 - 3. ABC](https://dongjunlee.github.io/code%20reading/CodeReading-3_ABC/)
+- [Python 코드읽기 - 4. Python Code Style](https://dongjunlee.github.io/code%20reading/CodeReading-4_Python_Code_Style/)
 
 ---
 
