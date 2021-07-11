@@ -44,11 +44,13 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
+    repo                 : DongjunLee/dongjunlee.github.com
     repo_id              : MDEwOlJlcG9zaXRvcnkyMzEyNTYzNTA= # Shown during giscus setup at https://giscus.app
     category_name        : General # Full text name of the category
     category_id          : DIC_kwDODcixHs4B-SN8 # Shown during giscus setup at https://giscus.app
     discussion_term      : pathname # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : 1 # '1' for enabled (default), '0' for disabled
+    emit_metadata        : 0
     theme                : light  # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
     branch               : # "master"
