@@ -44,7 +44,7 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
-    repo_id              : MDEwOlJlcG9zaXRvcnkyMzEyNTYzNTA # Shown during giscus setup at https://giscus.app
+    repo_id              : MDEwOlJlcG9zaXRvcnkyMzEyNTYzNTA= # Shown during giscus setup at https://giscus.app
     category_name        : General # Full text name of the category
     category_id          : DIC_kwDODcixHs4B-SN8 # Shown during giscus setup at https://giscus.app
     discussion_term      : pathname # "pathname" (default), "url", "title", "og:title"
