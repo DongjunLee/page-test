@@ -25,9 +25,9 @@ toc_sticky: false
 
 ![images]({{ site.url }}{{ site.baseurl }}/assets/images/growing_up_together/Untitled.png){: .align-center}
 <figcaption class="caption">출처: pixabay</figcaption>
- 
+
  면접에서 커뮤니케이션 스킬 역시 중요하게 평가되고 있죠. '팀원과의 협업에서 어려움이 있을 때 어떻게 하셨나요?' 이런 질문들은 흔하게 접하셨을 것 같습니다. 여기에서 저는 개인적으로 '팀으로 일하면서 팀원 모두의 성장을 위해서 무엇을 해보았나요?' 이 질문을 좋아합니다. 개인이 성장하는 것이 선형적이라면, 팀으로 성장하는 것은 기하급수적으로 볼 수 있기 때문입니다. 
- 
+
 
  이번에 소개하는 책의 저자께서도 이 책을 읽으며, 다음과 같은 질문들로 생각이 나아갈 수 있기를 기대하고 있습니다.
 
@@ -140,7 +140,7 @@ C 작업은 B 작업을 개선하는 것 입니다. 개선 사이클 자체의 �
 
 ## 끝으로
 
-![images]({{ site.url }}{{ site.baseurl }}/assets/images/growing_up_together/Untitled%203png){: .align-center}
+![images]({{ site.url }}{{ site.baseurl }}/assets/images/growing_up_together/Untitled%203.png){: .align-center}
 <figcaption class="caption">출처: 존잡생각 Ep.18 회사에서 본인을 빠르게 성장시키는 방법 - People Scaling</figcaption>
 
 
