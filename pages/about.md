@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-layout: single
+layout: about
 classes: wide
 last_modified_at: 2021-06-13T10:00:00-09:00
 
