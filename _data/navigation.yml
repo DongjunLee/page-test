@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: "https://humanbrain.notion.site/3ffc3ef5c8bf4d3ba0ed39ad283627a0"
   - title: "Posts"
     url: /categories/
   - title: "HB Wiki"
-    url: "https://www.notion.so/humanbrain/HB-Wiki-b991e2de3bae4498ae00c8953abaf807"
+    url: "https://humanbrain.notion.site/HB-Wiki-b991e2de3bae4498ae00c8953abaf807"
   # - title: "Sample Collections"
   #   url: /collection-archive/
