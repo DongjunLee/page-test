@@ -1,9 +1,9 @@
 ---
 permalink: /about/
 title: "About"
-layout: single
+layout: about
 classes: wide
-last_modified_at: 2021-06-13T10:00:00-09:00
+last_modified_at: 2021-09-22T10:00:00-09:00
 
 ---
 
@@ -15,7 +15,7 @@ Dongjun Lee <br/><br/>
 Machine Learning Engineer <br/>
 LBox Co., Ltd.  <br/><br/>
 기술을 이용해서 사람들에게 가치있는 제품을 전달하는 일을 하고 싶습니다. <br/><br/>
-좋은 코드, 아키텍처란 무엇인지, <br/>
+좋은 코드와 아키텍처란 무엇인지, <br/>
 NLP 전반에 대해서 <br/>
 그리고 팀 문화에 관심이 많습니다.
 <br/><br/>
@@ -29,13 +29,16 @@ CV: <a href="https://dongjunlee.github.io/assets/cv/CV_DongjunLee_Resume.pdf">[P
 ## Work Experience
 
 ### [LBox](https://career.lbox.kr/) (2021. 4 ~ current)
+: Machine Learning Engineer
+
+> Semantic Search, Pre-trained Language Model for Legal, ML Serving
 
 
 ### [Naver Clova AI](https://clova.ai/) (2018. 4 ~ 2021. 3)
 
 **1. AI MD**
 : Tech Lead & Project Manager 
-> Semantic Search & Recommendation : [MR.](https://shopping.naver.com/mister/trends)
+> Semantic Search & Recommendation : [MR.](https://shopping.naver.com/mister/trends), [기획전](https://shopping.naver.com/plan2/p/index.naver)
 
 **2. Contact Centor AI - AiCall**
 : Project Manager 
@@ -96,11 +99,10 @@ Product, Natural Language Processing (NLP), Quentified Self, Architecture, Team
 
 ## Skills
 
-- HTML5, CSS3, JavaScript
 - Python 3
-- Data Science - numpy, scikit-learn, pandas, matplotlib, seaborn, jupyter notebook
+- Data Science - numpy, scikit-learn, pandas, jupyter notebook, plotly
 - Machine Learning & Deep Learning - TensorFlow, **PyTorch**, scikit-learn
-- AWS - API Gateway, Lambda, S3 등
+- AWS - API Gateway, Lambda, ECR, ASG, ELB, SAM ans so on
 - Java8, Object-Oriented, Design Patterns
 - TDD & CI/CD
 
