@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dirt"  # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "ko"
-title                    : "HumanBrain"
+title                    : "Dongjun Lee"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dongjun Lee"
-description              : "기술을 이용해서 사람들에게 가치있는 제품을 전달하는 일을 하고 싶은 엔지니어입니다."
+description              : "기술을 기반으로 사람들에게 가치를 줄 수 있는 제품을 만드는 것을 즐기는 머신러닝 엔지니어입니다. 주로 기술과 Quantified Self 그리고 스타트업과 관련 책들 대한 이야기를 다룹니다."
 url                      : https://dongjunlee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Dongjun Lee"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "기술을 이용해서 사람들에게 가치있는 제품을 전달하고 싶은 엔지니어입니다."
+  bio              : "기술을 기반으로 사람들에게 가치를 줄 수 있는 제품을 만드는 것을 즐기는 머신러닝 엔지니어입니다. 주로 기술과 Quantified Self 그리고 스타트업과 관련 책들 대한 이야기를 다룹니다."
   location         : "South Korea"
   email            :
   links:
