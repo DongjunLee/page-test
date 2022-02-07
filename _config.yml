@@ -15,6 +15,7 @@
 minimal_mistakes_skin    : "dirt"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+future                   : true
 locale                   : "ko"
 title                    : "Dongjun Lee"
 title_separator          : "-"

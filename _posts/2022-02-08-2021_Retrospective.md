@@ -2,7 +2,7 @@
 title: "2021년 회고"
 layout: single
 classes: wide
-date: 2022-02-07 23:00
+date: 2022-02-08 09:00
 
 category: 
     - Retrospective
